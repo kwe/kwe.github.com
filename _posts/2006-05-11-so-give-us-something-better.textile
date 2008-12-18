@@ -1,0 +1,11 @@
+---
+layout: post
+title: So give us something better
+---
+Adobe are getting it in the neck from various people for their new Spry beta ("example":http://labs.adobe.com/technologies/spry/demos/gallery/). The "usual suspects":http://www.andybudd.com/links/javascript_and_the_dom/index.php say that writing Javascript this way is 
+
+bq. Ajax framework that allows you to create rich interfaces by polluting your mark-up with event handlers. One step forward, two steps back.
+
+Hmm, it's a beta - so I hope Mr Budd and others will give Adobe some feedback.
+
+Perhaps I'm very wrong, but I worry about people being too fixated with the purity of the markup. The world's moving on and will we really still be worried about HTML ten years from now?

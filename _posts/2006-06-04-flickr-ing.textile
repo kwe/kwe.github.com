@@ -1,0 +1,101 @@
+---
+layout: post
+title: Flickr ing
+---
+Inspired by "others":http://www2.jeffcroft.com/photos/ I've added my "Flickr":http://www.flickr.com/photos/kwe/ photostream data into Django, so I can "play":/photosOk,  so firstly I added a model for photos..
+
+{% highlight python %}
+
+from django.db import models
+
+class Photo(models.Model):	
+	guid = models.IntegerField(unique=True, db_index=True)
+	title = models.CharField('Title', maxlength=150)
+	server = models.CharField('Server', maxlength=20)
+	secret = models.CharField('Secret', maxlength=50)
+	owner = models.CharField('Owner', maxlength=50)
+	pub_date = models.DateTimeField('Date Added', auto_now_add=True)
+	enable_comments = models.BooleanField(default=True)
+
+	def __str__(self):
+		return self.title
+		
+	def get_absolute_url(self):
+		return "/photos/%s/" % self.guid
+		
+	def thumbnail(self):
+		return "<a href=\"http://www.flickr.com/photos/kwe/%s/\" title=\"%s\"><img src=\"http://static.flickr.com/%s/%s_%s_s.jpg\" alt=\"%s\" /></a>" % (self.guid, self.title, self.server, self.guid, self.secret, self.title,)	
+	
+	class Admin:
+		fields = (
+			(None,<'fields':('guid','title','enable_comments','pub_date','server','secret')<),
+		)
+		list_display = ('thumbnail','title','pub_date','guid')
+		list_filter = ('enable_comments',)
+		search_fields = ['title']
+	
+	class Meta:
+		ordering = ['-guid']
+{% endhighlight %}
+
+Next write a piece of code that connects to Flickr and grabs the photo details...
+Run this periodically and it will keep the list up-to-date
+
+{% highlight python %}
+
+import os
+import optparse
+
+def update_flickr():
+	from mysite.photos.models import Photo
+	from FlickrClient import FlickrClient
+	client = FlickrClient("YOURFLICKRAPIKEY")
+	person = client.flickr_people_findByUsername(username="yourname")
+	userid = person(u'id')
+	photos = client.flickr_people_getPublicPhotos(user_id=userid,per_page=500)
+	for p in photos:
+			server = p(u'server')
+			secret = p(u'secret')
+			guid = p(u'id')
+			title = p(u'title')
+			owner = p(u'owner')
+			print "Server = %s, secret = %s, id = %s, title = %s" %(server, secret, guid, title)
+			try:
+				Photo.objects.get(guid=guid)
+			except Photo.DoesNotExist:
+				print "Does not exist, so add it"
+				the_photo = Photo(title=title,server=server,secret=secret,guid=guid,owner=owner)
+				the_photo.save()
+
+
+if __name__ == '__main__':
+    parser = optparse.OptionParser()
+    parser.add_option('--settings')
+    options, args = parser.parse_args()
+    if options.settings:
+        os.environ["DJANGO_SETTINGS_MODULE"] = options.settings
+    update_flickr() 
+{% endhighlight %}
+
+
+Finally, a template for the list view..
+
+{% highlight python %}
+
+<% extends "base.html" %<
+<% block title %<About Us - Photos<% endblock %<
+
+<% block content %<
+<h2><a href="http://www.flickr.com/photos/kwe/">My Flickr Photostream</a></h2>
+<% for pic in object_list %<
+<div class="thumbnail">
+	<a href="http://www.flickr.com/photos/kwe/<< pic.guid <</" title="<< pic.title <<"><img src="http://static.flickr.com/<< pic.server <</<< pic.guid <<_<< pic.secret <<_s.jpg" alt="<< pic.title <<" /></a>
+</div>
+<% endfor %<
+<div id="photo_navigation">
+	<p><% if has_previous %<<a href="?page=<< previous <<">&lt;&lt;Newer photos</a><% endif %<	
+		<% if has_next %<<a href="?page=<< next <<">Earlier photos&gt;&gt;</a>  <% endif %<</p>
+</div>
+<% endblock %<
+
+{% endhighlight %}

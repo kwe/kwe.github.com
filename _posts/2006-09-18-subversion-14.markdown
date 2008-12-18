@@ -1,0 +1,14 @@
+---
+layout: post
+title: Subversion 1.4
+---
+[Subversion 1.4][1] is out and has some nice new features ([release notes][2]). There's a [webcast][3] of the new features (bit boring). For me the svnsync command looks neat and the Apple keychain support will be very welcome for all those passwords. You can grab a [OSX version pre-compiled][4]. For Windows XP, [TortoiseSVN][5] is a lovely client. On a Mac we tend to use [svnX][6]. Still need persuading? Check out a [free book][7]
+
+
+[1]:http://digg.com/programming/Subversion_1_4_Released
+[2]:http://subversion.tigris.org/svn_1.4_releasenotes.html
+[3]:http://www.collab.net/products/subversion/submerged.html
+[4]:http://www.codingmonkeys.de/mbo/articles/2006/09/13/subversion-1-4-0 
+[5]:http://tortoisesvn.tigris.org/
+[6]:http://www.lachoseinteractive.net/en/community/subversion/svnx/features/
+[7]:http://freecomputerbooks.com/versionControlBooksIndex.html

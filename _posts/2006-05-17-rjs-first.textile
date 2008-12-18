@@ -1,0 +1,20 @@
+---
+layout: post
+title: RJS first
+---
+Actually used rjs finally in Rails today. 
+
+Been struggling to find an excuse to do some ajax and rjs seems so neat - it just had to be done..
+
+"Delegate list":http://gregynog.glam.ac.uk/institutions/list for the Gregynog site. Took a little while to figure it out, but in the end it was very little code..
+
+{% highlight ruby %}
+page[@list].replace_html :partial => 'institution_list', :collection => @delegates.people
+page[@list].show
+page[@list].visual_effect :highlight
+{% endhighlight %}
+
+
+Need to find some good documentation on this stuff. *Update*, "found it":http://www.rubyinside.com/16-rjs-resources-and-tutorials-for-rails-programmers-5.html
+
+In other rails related news, "Corked":http://www.simplebits.com/notebook/2006/05/17/corkd.html perhaps a site that Chewie will like. Mr Hivelogic "says it best":http://hivelogic.com/articles/2006/05/17/corkd

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rabbit 2.0
+---
+The absolutely brilliant [CSSEdit 2.0][1] is out and *the* tool for all your css needs.
+
+[1]:http://macrabbit.com/cssedit

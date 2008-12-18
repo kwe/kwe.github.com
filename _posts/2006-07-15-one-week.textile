@@ -1,0 +1,17 @@
+---
+layout: post
+title: One Week on
+---
+a week of Macbook Pro..So, "it":http://www.apple.com/uk/macbookpro/ finally arrived just over a week ago. 17" of _glowing_ Macbook pro, 2 fat GB of RAM and a glossy screen on top. 
+
+Heck it's a Mac, but with a new trick - it can also run windoze.
+
+Both Boot Camp and Parallels work great - especially parallels which for most things is all that you need. Great for testing those pages on IE.
+
+Of course, just like "this guy":http://whatdoiknow.org/archives/002682.shtml the only real reason someone could want Windows would be to play HL2 etc! I have to admit HL2 is bloody amazing, and while I've not had time for much play recently, myself and Mearso (technical advisor) spent some happy time exploring this sensational game. I picked up Far Cry for &pound; 9 today, so I need to clear some time in my diary!
+
+On the Mac side - the thing just flies. Amazing job to move to Intel so smoothly. For the first time in a while I did not take the option of copying over settings and files from my old Mac - instead I'm installing from scratch.
+
+Django, Rails and friends went on fine and lovely software like Textmate just scream on this thing.
+
+My old white iBook is off to an new owner (sniff) and it's a brave new world..

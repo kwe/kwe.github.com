@@ -1,0 +1,7 @@
+---
+layout: post
+title: ch ch ch changes
+---
+Moved to using "generic views":http://www.djangoproject.com/documentation/generic_views/, which quite frankly *rock*. This app now has a complete lack of _controller_ type code..
+
+Hey, I'm not the only one, "check out this article":http://www.wilsonminer.com/posts/2006/may/10/are-you-generic/ which says it better.

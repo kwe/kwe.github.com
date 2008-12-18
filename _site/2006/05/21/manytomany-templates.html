@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>ManyToMany in templates</title>
+	<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+	<link rel="stylesheet" href="/css/screen.css" type="text/css" />	
+ 	
+</head>
+
+<body>
+<div class="post">
+	<p>Given these models..</p>
+
+<div>
+  <pre>
+    <code class='python'>from django.db import models
+
+
+class Tag(models.Model):
+
+    def __str__(self):
+        return self.title
+
+    class Admin:
+        fields = (
+            (None, {'fields':('title','slug','description')}),
+        )                       
+        list_display = ('title','description')
+
+    slug = models.SlugField('Slug',prepopulate_from=(&quot;title&quot;,),help_text='Automagically generate from title.',primary_key=True)
+    title = models.CharField('Title', maxlength=30, core=True)
+    description = models.TextField('Description', help_text='Short summary of this tag')
+
+
+class Post(models.Model):
+
+    def __str__(self): 
+        return self.title
+
+    def save(self):
+        import textile
+        self.body_html = textile.textile(self.body)
+        super(Post, self).save()    
+
+    def get_absolute_url(self):
+        return &quot;/%s/%s/&quot; % (self.pub_date.strftime(&quot;%Y/%b/%d&quot;).lower(), self.slug)          
+
+    class Admin:
+        fields = (
+            (None, {'fields':('title','slug','pub_date','body','tags','enable_comments','lead_image')}),
+        )                       
+        list_display = ('title','pub_date','enable_comments')
+        list_filter = ['pub_date','enable_comments','tags']
+        search_fields = ['title','body']
+        date_hierarchy = 'pub_date'
+
+    title = models.CharField(maxlength=200)
+    slug = models.SlugField(prepopulate_from=('title',))
+    pub_date = models.DateTimeField('Date Published',auto_now_add=True)
+    body = models.TextField(help_text='You can use Textile')
+    body_html = models.TextField('Entry as html',blank=True, null=True)
+    tags = models.ManyToManyField(Tag)
+    lead_image = models.ImageField(upload_to='img/blog-posts/lead', blank=True)
+    enable_comments = models.BooleanField(default=True)</code>
+  </pre>
+</div>
+
+
+<p>I wanted to output a list of tags relating to a Post in a template. After some trial and error, hit upon..</p>
+
+<div>
+  <pre>
+    <code class='python'>for article in latest 
+     get_free_comment_count for news.post article.id as comment_count 
+    &lt;h2&gt;&lt;a href=&quot; article.get_absolute_url&quot;&gt; article.title &lt;/a&gt;&lt;/h2&gt;
+            &lt;p class=&quot;date small&quot;&gt;Posted on  article.pub_date|date:&quot;F j, Y&quot;  &lt;a href=&quot; article.get_absolute_url }}#comments&quot;&gt; comment_count comment comment_count|pluralize &lt;/a&gt;&lt;/p&gt;
+            article.body_html 
+            &lt;p&gt;tagged:  for tag in article.tags.all tag.title endfor &lt;/p&gt;
+    endfor</code>
+  </pre>
+</div>
+
+
+</div>
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    
+      <li><span>19 Dec 2008</span> &raquo; <a href="/2008/12/19/hello-there.html">Hello There</a></li>
+    
+      <li><span>31 Jan 2007</span> &raquo; <a href="/2007/01/31/wow.html">Wow?!</a></li>
+    
+      <li><span>09 Jan 2007</span> &raquo; <a href="/2007/01/09/macworld-prediction.html">Macworld Prediction</a></li>
+    
+  </ul>
+</div>
+
+</body>
+</html>

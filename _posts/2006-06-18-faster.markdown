@@ -1,0 +1,11 @@
+---
+layout: post
+title: Faster?
+---
+My ADSL got updated..Now it seems to think it's connected at 4meg (an increase from 1meg). Only problem is the damn things just not stable, connection keeps dropping, which is annoying and did not happen before. Progress I guess...
+
+Perhaps it will clam down..
+
+*Update*
+
+A firmware update seems to have helped - fingers crossed..

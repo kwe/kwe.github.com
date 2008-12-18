@@ -1,0 +1,5 @@
+---
+layout: post
+title: Face off
+---
+So, now I'm running Django on "textdrive":http://www.mpet45.co.uk and on "dreamhost":http://django.mpet45.com, which will stay alive?!

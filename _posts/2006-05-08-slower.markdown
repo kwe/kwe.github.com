@@ -1,0 +1,5 @@
+---
+layout: post
+title: slower
+---
+How much slower this is then when you access it locally..

@@ -1,0 +1,5 @@
+---
+layout: post
+title: next we have
+---
+Nothing refreshes like a change. I'm still impressed with Amazon's S3 ( my bill was 1p for last month), and things like "backing up flickr to S3":http://www.postneo.com/2006/03/22/backing-up-flickr-photos-with-amazon-s3 sounds like just the kind of thing Ed was looking for.

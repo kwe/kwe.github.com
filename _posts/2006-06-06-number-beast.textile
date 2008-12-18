@@ -1,0 +1,7 @@
+---
+layout: post
+title: The number of the beast
+---
+Xbox live get's an update and this website says 'yahoo'..Microsoft choose today to release a "major Xbox 360 Live update":http://www.engadget.com/2006/06/06/hands-on-with-the-big-xbox-dashboard-update/ and rather good it is tooooo. The ability to download content while playing is the big new feature for me, but the 'boot to dashboard' comes a close second.
+
+Meanwhile, it time to check out "Yahoo's css grids":http://developer.yahoo.com/yui/grids/, live on this site..

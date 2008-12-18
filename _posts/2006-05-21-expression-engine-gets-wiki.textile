@@ -1,0 +1,5 @@
+---
+layout: post
+title: Expression Engine gets a Wiki!
+---
+"EE":http://pmachine.com/products/wiki/ just got better, the latest release adds a membership aware Wiki. Lovely.

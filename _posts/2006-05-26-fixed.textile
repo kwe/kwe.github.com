@@ -1,0 +1,5 @@
+---
+layout: post
+title: fixed
+---
+Loving "Django":http://www.djangoproject.org, I found a bug and they "fixed":http://code.djangoproject.com/ticket/1985 it. Love.

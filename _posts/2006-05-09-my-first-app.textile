@@ -1,0 +1,7 @@
+---
+layout: post
+title: My first app
+---
+So this is my first "Django":http://www.djangoproject.com/ based app. I've gone for the latest svn version (the so called _magic-removal_ version), and installed it as an fcgi socket based app, with lightty serving.
+
+Stability is quite  a problem right now, not sure why.?!

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Flickr ing</title>
+	<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+	<link rel="stylesheet" href="/css/screen.css" type="text/css" />	
+ 	
+</head>
+
+<body>
+<div class="post">
+	<p>Inspired by <a href="http://www2.jeffcroft.com/photos/">others</a> I&#8217;ve added my <a href="http://www.flickr.com/photos/kwe/">Flickr</a> photostream data into Django, so I can <a href="/photosOk">play</a>,  so firstly I added a model for photos..</p>
+<div>
+<pre>
+<code class='python'>from django.db import models
+<p>class Photo(models.Model):	<br />
+	guid = models.IntegerField(unique=True, db_index=True)<br />
+	title = models.CharField(&#8216;Title&#8217;, maxlength=150)<br />
+	server = models.CharField(&#8216;Server&#8217;, maxlength=20)<br />
+	secret = models.CharField(&#8216;Secret&#8217;, maxlength=50)<br />
+	owner = models.CharField(&#8216;Owner&#8217;, maxlength=50)<br />
+	pub_date = models.DateTimeField(&#8216;Date Added&#8217;, auto_now_add=True)<br />
+	enable_comments = models.BooleanField(default=True)</p>
+<p>def <i>str</i>(self):<br />
+		return self.title<br />
+		<br />
+	def get_absolute_url(self):<br />
+		return &quot;/photos/<span>s/&quot; % self.guid<br />
+		<br />
+	def thumbnail(self):<br />
+		return &quot;&lt;a href=\&quot;http://www.flickr.com/photos/kwe/</span>s/\&quot; title=\&quot;<span>s\&quot;&gt;&lt;img src=\&quot;http://static.flickr.com/</span>s/<span>s_</span>s_s.jpg\&quot; alt=\&quot;%s\&quot; /&gt;&lt;/a&gt;&quot; % (self.guid, self.title, self.server, self.guid, self.secret, self.title,)	<br />
+	<br />
+	class Admin:<br />
+		fields = (<br />
+			(None,&lt;&#8216;fields&#8217;:(&#8216;guid&#8217;,&#8216;title&#8217;,&#8216;enable_comments&#8217;,&#8216;pub_date&#8217;,&#8216;server&#8217;,&#8217;secret&#8217;)&lt;),<br />
+		)<br />
+		list_display = (&#8216;thumbnail&#8217;,&#8216;title&#8217;,&#8216;pub_date&#8217;,&#8217;guid&#8217;)<br />
+		list_filter = (&#8216;enable_comments&#8217;,)<br />
+		search_fields = &#8216;title&#8217;<br />
+	<br />
+	class Meta:<br />
+		ordering = &#8216;-guid&#8217;</code><br />
+  </pre></p>
+</div>
+<p>Next write a piece of code that connects to Flickr and grabs the photo details&#8230;<br />
+Run this periodically and it will keep the list up-to-date</p>
+<div>
+<pre>
+<code class='python'>import os
+<p>import optparse</p>
+<p>def update_flickr():<br />
+	from mysite.photos.models import Photo<br />
+	from FlickrClient import FlickrClient<br />
+	client = FlickrClient(&quot;<span class="caps">YOURFLICKRAPIKEY</span>&quot;)<br />
+	person = client.flickr_people_findByUsername(username=&quot;yourname&quot;)<br />
+	userid = person(u&#8217;id&#8217;)<br />
+	photos = client.flickr_people_getPublicPhotos(user_id=userid,per_page=500)<br />
+	for p in photos:<br />
+			server = p(u&#8217;server&#8217;)<br />
+			secret = p(u&#8217;secret&#8217;)<br />
+			guid = p(u&#8217;id&#8217;)<br />
+			title = p(u&#8217;title&#8217;)<br />
+			owner = p(u&#8217;owner&#8217;)<br />
+			print &quot;Server = %s, secret = %s, id = %s, title = %s&quot; %(server, secret, guid, title)<br />
+			try:<br />
+				Photo.objects.get(guid=guid)<br />
+			except Photo.DoesNotExist:<br />
+				print &quot;Does not exist, so add it&quot;<br />
+				the_photo = Photo(title=title,server=server,secret=secret,guid=guid,owner=owner)<br />
+				the_photo.save()</p>
+<p>if <i>name</i> == &#8216;<i>main</i>&#8217;:<br />
+    parser = optparse.OptionParser()<br />
+    parser.add_option(&#8216;&#8212;settings&#8217;)<br />
+    options, args = parser.parse_args()<br />
+    if options.settings:<br />
+        os.environ[&quot;DJANGO_SETTINGS_MODULE&quot;] = options.settings<br />
+    update_flickr()</code><br />
+  </pre></p>
+</div>
+<p>Finally, a template for the list view..</p>
+<div>
+<pre>
+<code class='python'>&amp;lt;% extends &amp;quot;base.html&amp;quot; %&amp;lt;
+<p>&lt;% block title <span>&lt;About Us &#8211; Photos&lt;</span> endblock %&lt;</p>
+<p>&lt;% block content <span>&lt;<br />
+&lt;h2&gt;&lt;a href=&quot;http://www.flickr.com/photos/kwe/&quot;&gt;My Flickr Photostream&lt;/a&gt;&lt;/h2&gt;<br />
+&lt;</span> for pic in object_list <span>&lt;<br />
+&lt;div class=&quot;thumbnail&quot;&gt;<br />
+	&lt;a href=&quot;http://www.flickr.com/photos/kwe/&lt;&lt; pic.guid &lt;&lt;/&quot; title=&quot;&lt;&lt; pic.title &lt;&lt;&quot;&gt;&lt;img src=&quot;http://static.flickr.com/&lt;&lt; pic.server &lt;&lt;/&lt;&lt; pic.guid &lt;&lt;<em>&lt;&lt; pic.secret &lt;&lt;</em>s.jpg&quot; alt=&quot;&lt;&lt; pic.title &lt;&lt;&quot; /&gt;&lt;/a&gt;<br />
+&lt;/div&gt;<br />
+&lt;</span> endfor <span>&lt;<br />
+&lt;div id=&quot;photo_navigation&quot;&gt;<br />
+	&lt;p&gt;&lt;</span> if has_previous <span>&lt;&lt;a href=&quot;?page=&lt;&lt; previous &lt;&lt;&quot;&gt;&amp;lt;&amp;lt;Newer photos&lt;/a&gt;&lt;</span> endif <span>&lt;	<br />
+		&lt;</span> if has_next <span>&lt;&lt;a href=&quot;?page=&lt;&lt; next &lt;&lt;&quot;&gt;Earlier photos&amp;gt;&amp;gt;&lt;/a&gt;  &lt;</span> endif <span>&lt;&lt;/p&gt;<br />
+&lt;/div&gt;<br />
+&lt;</span> endblock %&lt;</code><br />
+  </pre></p>
+</div>
+</div>
+
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    
+      <li><span>19 Dec 2008</span> &raquo; <a href="/2008/12/19/hello-there.html">Hello There</a></li>
+    
+      <li><span>31 Jan 2007</span> &raquo; <a href="/2007/01/31/wow.html">Wow?!</a></li>
+    
+      <li><span>09 Jan 2007</span> &raquo; <a href="/2007/01/09/macworld-prediction.html">Macworld Prediction</a></li>
+    
+  </ul>
+</div>
+
+</body>
+</html>

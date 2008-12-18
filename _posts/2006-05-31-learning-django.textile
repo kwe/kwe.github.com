@@ -1,0 +1,27 @@
+---
+layout: post
+title: Learning Django
+---
+_a gentle guide_
+
+A guess a good start are the two movies ..
+
+"Snakes and Rubies":http://www.djangoproject.com/snakesandrubies/ which is a good intro to the concepts behind Django (and Rails is you watch the whole thing).
+
+"Django - Google talk":http://video.google.com/videoplay?docid=-70449010942275062 repeats some stuff but also takes things further and is probably something to come back to once you know a little more.
+
+For reading..
+
+"Django for non-programmers":http://www2.jeffcroft.com/2006/may/02/django-non-programmers/ is a great start.
+
+Jeff's also done a great series on Templates ..
+
+"Templates - an introduction":http://www2.jeffcroft.com/2006/feb/21/django-templates-an-introduction/
+
+"Template inheritance":http://www2.jeffcroft.com/2006/feb/25/django-templates-the-power-of-inheritance/ (wish Rails had this!)
+
+The "official documentation":http://www.djangoproject.com/documentation/ is also good, with a four part tutorial and a "guide for template authors":http://www.djangoproject.com/documentation/templates/
+
+*NB* when googling around watch out for older articles on Django, the framework has changed significantly recently. "Removing the Magic":http://code.djangoproject.com/wiki/RemovingTheMagic is an attempt to stabilize the API, and some old stuff still uses pre-magicRemoval code.
+
+I've just noticed that the source code for the djangoproject website is now updated to 'post-mr', starting "here":http://code.djangoproject.com/browser/djangoproject.com/django_website
