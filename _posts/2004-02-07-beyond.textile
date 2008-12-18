@@ -1,0 +1,5 @@
+---
+layout: post
+title: beyond
+---
+<a href="http://www.informit.com/content/articlex.asp?product_id={2264FACA-D814-420F-83BD-AE84BB7FE644}&st={EA04B5C6-6D59-4670-AC88-4982C49B746D}&session_id={332FE8C3-7E89-4198-B970-D2A24EBA0294}">Integrated Web Design: CSS Beyond the Retrofit</a>

@@ -1,0 +1,7 @@
+---
+layout: post
+title: cfguru
+---
+<a href="http://cfguru.daemon.com.au/">CFGURU</a>, a great little blog on matters Coldfusion
+
+even if no one helped me (http://cfguru.daemon.com.au/archives/000045.html)

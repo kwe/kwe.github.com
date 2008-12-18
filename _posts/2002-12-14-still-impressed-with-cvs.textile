@@ -1,0 +1,6 @@
+---
+layout: post
+title: still impressed with cvs
+---
+<a title="The CVS Book" href="http://cvsbook.red-bean.com/">The CVS Book</a>
+

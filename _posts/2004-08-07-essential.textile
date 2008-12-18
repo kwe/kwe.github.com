@@ -1,0 +1,5 @@
+---
+layout: post
+title: essential
+---
+"instiki":http://www.instiki.org/show/HomePage is really *great*. Would be a wonderful way to collaborate on a Documentation. A must have!

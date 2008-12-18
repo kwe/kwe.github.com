@@ -1,0 +1,6 @@
+---
+layout: post
+title: handy
+---
+<a title="1 - 2 - 3 - fixed-width center and right" href="http://www.fu2k.org/alex/css/layouts/3Col_OrderedAbsolute.mhtml">1 - 2 - 3 - fixed-width center and right</a>
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: htaccess from mt
+---
+<a title="mamamusings: redirection solution" href="http://mamamusings.net/archives/2003/07/24/redirection_solution.php">mamamusings: redirection solution</a>

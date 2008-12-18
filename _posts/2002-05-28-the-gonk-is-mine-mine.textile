@@ -1,0 +1,5 @@
+---
+layout: post
+title: the gonk is mine!! mine
+---
+The gonk is mine!! <i>mine !!</i>

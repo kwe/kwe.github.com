@@ -1,0 +1,20 @@
+---
+layout: post
+title: magick
+---
+I'm kind of getting into the idea of using ruby for image processing, and thanks to rmagick that's really easy..
+
+<pre>
+require 'RMagick'
+
+bigimg = Magick::Image.read('big.jpg').first
+bigimg.change_geometry!('450x450'){|cols,rows,img|
+	img.resize!(cols,rows)}
+img = bigimg.gamma_correct(2.1,2.1,2.1)
+img.border!(1,1,'black')
+img.write('resize.jpg')
+</pre>
+
+resizes a big image and fiddles with the gamma for you windows loving boys..
+
+hmm..

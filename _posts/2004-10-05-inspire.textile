@@ -1,0 +1,5 @@
+---
+layout: post
+title: inspire
+---
+Some really nice "CSS presentations":http://www.stopdesign.com/present/2004/sydney/ from Mr Bowman in Sydney.

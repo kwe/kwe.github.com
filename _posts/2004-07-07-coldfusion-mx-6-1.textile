@@ -1,0 +1,5 @@
+---
+layout: post
+title: coldfusion mx 6.1
+---
+How to "install":http://www.macromedia.com/support/coldfusion/j2ee/cfmxj2ee_mac_onjrunandtom.html on OSX

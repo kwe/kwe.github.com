@@ -1,0 +1,6 @@
+---
+layout: post
+title: no guilt
+---
+<a title="Using Background-Image to Replace Text" href="http://www.stopdesign.com/articles/css/replace-text/">Using Background-Image to Replace Text</a>. Images without guilt...
+

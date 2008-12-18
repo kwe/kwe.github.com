@@ -1,0 +1,5 @@
+---
+layout: post
+title: css easy
+---
+A great "CSS template generator":http://www.erisfree.com/d2/apart.php

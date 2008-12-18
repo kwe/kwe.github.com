@@ -1,0 +1,15 @@
+---
+layout: post
+title: i dream of
+---
+You Dafydd is ill again, his nose is doing a very good impression of a snot factory and sleep is not coming easy to him (or me). It's been two days since I've seen my bed and I'm thinking of getting a picture done to remind me where it is.
+
+So anyway, at least he's eating - one jar of Vaseline so far ( he found it in his room - Damn!!).
+
+All this lack of sleep means I get to write some code to stay awake. So I've just been testing out Macromedia's newly patched Dreamweaver 2004 7.0.1
+
+I'm happy to report that the thing is vastly improved, especially speed. Will try and use it for a few days..
+
+The fruits of the work are posted to _developing nicely_
+
+Off to dream of electric sheep..

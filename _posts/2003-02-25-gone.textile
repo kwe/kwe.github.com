@@ -1,0 +1,5 @@
+---
+layout: post
+title: gone
+---
+<img alt="gone.jpg" src="http://www.mpet45.co.uk/myBlog/archives/gone.jpg" width="300" height="225" border="0" />

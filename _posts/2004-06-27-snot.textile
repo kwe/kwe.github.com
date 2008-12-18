@@ -1,0 +1,5 @@
+---
+layout: post
+title: snot
+---
+The house is running with _snot_ as we all go down with a summertime cold, *agh*

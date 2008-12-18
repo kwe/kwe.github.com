@@ -1,0 +1,5 @@
+---
+layout: post
+title: tips
+---
+"Some great textile tips":http://bradchoate.com/weblog/2004/02/05/textile-tips

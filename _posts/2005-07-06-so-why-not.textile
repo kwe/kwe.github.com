@@ -1,0 +1,17 @@
+---
+layout: post
+title: so why not?
+---
+You using "Rails":http://www.rubyonrails.com yet?
+
+_Why not?_
+
+With the release of "0.13":http://weblog.rubyonrails.com/archives/2005/07/06/rails-013-225-featuresfixes-in-75-days/ the best just got better and it's getting hard to even imagine using anything else.
+
+The new "ajax stuff":http://script.aculo.us/demos/ is quite divine and as we approach 1.0 world domination awaits :-)
+
+"Migrations":http://api.rubyonrails.com/classes/ActiveRecord/Migration.html are another cool addition, and will certainly save me some time.
+
+Lots and lots of cool new stuff (225+) that redefines web app development.
+
+Dot Net? surly a syntax error. 

@@ -1,0 +1,5 @@
+---
+layout: post
+title: meyer on some more css
+---
+<a href="http://www.meyerweb.com/eric/talks/2003/commug/commug.html">list and things</a>.

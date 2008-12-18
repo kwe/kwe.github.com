@@ -1,0 +1,5 @@
+---
+layout: post
+title: might come in handy
+---
+<a title="Parsing RSS with CFMX - ColdFusion Code Samples" href="http://www.cfdev.com/code_samples/code.cfm/CodeID/125/ColdFusion/Parsing_RSS_with_CFMX">Parsing RSS with CFMX - ColdFusion Code Samples</a>

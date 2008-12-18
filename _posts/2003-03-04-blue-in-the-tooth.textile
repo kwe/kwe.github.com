@@ -1,0 +1,5 @@
+---
+layout: post
+title: blue in the tooth
+---
+<a title="Scriptable Applications: Bluetooth Devices" href="http://www.apple.com/applescript/bluetooth/">Scriptable Applications: Bluetooth Devices</a>

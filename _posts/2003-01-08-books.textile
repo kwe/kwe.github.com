@@ -1,0 +1,6 @@
+---
+layout: post
+title: books
+---
+<a title="William Gibson" href="http://www.williamgibsonbooks.com/index.asp">William Gibson</a>
+

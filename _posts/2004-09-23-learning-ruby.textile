@@ -1,0 +1,5 @@
+---
+layout: post
+title: learning ruby
+---
+"Via cartoons":http://poignantguide.net/ruby/chapter-3.html#section4 one for "Mearso":http://www.mearso.com I think!

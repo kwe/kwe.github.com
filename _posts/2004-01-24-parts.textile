@@ -1,0 +1,6 @@
+---
+layout: post
+title: parts
+---
+<a title="timheuer.com | stuff" href="http://www.timheuer.com/stuff.htm">timheuer.com | stuff</a>
+

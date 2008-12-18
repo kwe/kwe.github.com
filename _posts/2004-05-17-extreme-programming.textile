@@ -1,0 +1,7 @@
+---
+layout: post
+title: extreme programming?
+---
+This is the editor you! "SubEthaEdit 2.0":http://www.codingmonkeys.de/subethaedit/news.html
+
+Lots of nice new stuff and great ActionScript syntax also.

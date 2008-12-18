@@ -1,0 +1,9 @@
+---
+layout: post
+title: don't fear the ..
+---
+Hmm. All these months of restarting lighttpd when a 
+
+<code>/script/process/reaper</code>
+
+gracefully restarts all dispatchers..

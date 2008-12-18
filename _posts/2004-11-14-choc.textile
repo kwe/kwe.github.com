@@ -1,0 +1,11 @@
+---
+layout: post
+title: choc
+---
+<img src="/images/choced.jpg" alt="Chocolate" class="picture" />
+
+Megan has a new trick..
+
+Forward crawling, along with the ability to climb up onto her feet.
+
+Very handy when your brother leaves some Chocolate on the coffe table.

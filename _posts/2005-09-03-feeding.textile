@@ -1,0 +1,5 @@
+---
+layout: post
+title: feeding
+---
+"Must get this":http://sporkmonger.com/articles/2005/09/01/feed-merging-with-feedtools and feed some serious rss.

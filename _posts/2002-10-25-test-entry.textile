@@ -1,0 +1,5 @@
+---
+layout: post
+title: test entry
+---
+typed while listening to <em>Once Upon A Time</em> from the album "Adore" by <a href="http://www.google.com/search?q=%22Smashing Pumpkins%22" target="_blank">Smashing Pumpkins</a>

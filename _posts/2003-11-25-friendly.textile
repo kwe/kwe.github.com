@@ -1,0 +1,5 @@
+---
+layout: post
+title: friendly
+---
+<a title="Search Engine-Friendly URLs" href="http://www.sitepoint.com/article/485">Search Engine-Friendly URLs</a>

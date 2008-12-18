@@ -1,0 +1,6 @@
+---
+layout: post
+title: images for reference
+---
+<a title="Images, Tables, and Mysterious Gaps" href="http://devedge.netscape.com/viewsource/2002/img-table/">Images, Tables, and Mysterious Gaps</a>
+

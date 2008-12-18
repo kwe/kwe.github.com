@@ -1,0 +1,9 @@
+---
+layout: post
+title: identity
+---
+So we all need "Identity 2.0":http://www.identity20.com/media/OSCON2005/
+
+
+
+bq. Simple Wins

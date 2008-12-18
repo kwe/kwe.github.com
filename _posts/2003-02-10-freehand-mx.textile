@@ -1,0 +1,5 @@
+---
+layout: post
+title: freehand mx
+---
+<a href="http://www.macromedia.com/software/freehand/">New stuff from Macromedia</a>

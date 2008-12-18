@@ -1,0 +1,7 @@
+---
+layout: post
+title: going back to work..
+---
+So holidays are over and it's back to work..
+
+I'm moving this site to use "lighttpd":http://www.lighttpd.net which is a heck of a lot faster.

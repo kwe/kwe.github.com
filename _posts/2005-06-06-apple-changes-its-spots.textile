@@ -1,0 +1,9 @@
+---
+layout: post
+title: apple changes it's spots
+---
+So the next release of OSX is _Leopard_ and apple will be Intel inside...
+
+hmmm..
+
+What I worry about is "this":http://www.wired.com/news/mac/0,2125,67749,00.html on chip-DRM. So some American gets to decide when and if I can use media on my machine.

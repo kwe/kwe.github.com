@@ -1,0 +1,47 @@
+---
+layout: post
+title: friday comes a day early..
+---
+It's the 13th tomorrow, but it feels like today! 
+
+Needed to use my new broadband connection in anger for the first time tonight and it was a bit of a disaster.
+
+Initially, all seemed fine. Downloaded some stuff and then got ready to upload to an ftp server. The first few files seemed to work fine, then everything started to just stall.
+
+Restarted router and Mac and tried again.
+
+Now nothing was working. Damn.
+
+Restarted Router again..
+
+Back came the internet and everything was working apart from ftp upload. Tried sftp upload - worked fine.
+
+So I phone the ISP, perhaps ftp server is playing up?!
+
+"No Sir", it's working fine.
+
+Try my Mac again  - oops, no wireless Lan.
+
+Restarted router..
+
+A google search later and it seems my firmware is out-of-date and specifically _problems with ftp upload_ is mentioned.
+
+So time to upgrade..
+
+Seems simple. Connect laptop to router via ethernet and upload the firmware. "*NB* DO NOT INTERRUPT THE UPLOAD - Router will break!!", said the PDF.
+
+So took no chances, running only Safari and ready to go.
+
+"Uploading firmware, DO NOT INTERRUPT"
+
+said the message.
+
+Fine I thought, *no way I'm going to interrupt it!!*
+
+then Safari decides to be helpful...
+
+"No response from site for 60 seconds", says the dialog
+
+"AAAAAAGH"
+
+...

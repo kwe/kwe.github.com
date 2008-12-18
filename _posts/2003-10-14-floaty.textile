@@ -1,0 +1,5 @@
+---
+layout: post
+title: floaty
+---
+<a title="Floatutorial: Step by step CSS float tutorial" href="http://css.maxdesign.com.au/floatutorial/">Floatutorial: Step by step CSS float tutorial</a>

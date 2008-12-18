@@ -1,0 +1,5 @@
+---
+layout: post
+title: netnewswire 1.0 ships
+---
+<a href="http://ranchero.com/netnewswire/">Ranchero Software</a> has released NetNewsWire 1.0, an easy-to-use RSS news reader. [<a href="http://www.macmegasite.com/">MacMegasite</a>]. Well worth a look!

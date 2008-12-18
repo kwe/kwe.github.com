@@ -1,0 +1,5 @@
+---
+layout: post
+title: more blog stuff
+---
+so "K2":http://binarybonsai.com/wordpress/k2/ is coming. Time to checkout "wordpress":http://www.wordpress.org in my Xmas blog sw test.

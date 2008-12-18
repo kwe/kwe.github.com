@@ -1,0 +1,5 @@
+---
+layout: post
+title: fancy paragraphs	
+---
+<a href="http://www.webmasterbase.com/article.php/942">fancy ones</a>

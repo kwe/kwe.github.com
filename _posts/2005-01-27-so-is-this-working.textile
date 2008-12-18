@@ -1,0 +1,13 @@
+---
+layout: post
+title: so is this working?
+---
+Images uploads..
+
+<img src="http://www.mpet45.co.uk/files//blurme.jpg" border="0" alt="me" />
+
+and multiple tags?
+
+all via xmlrpc?
+
+**YES** (and editing works)

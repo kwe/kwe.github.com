@@ -1,0 +1,5 @@
+---
+layout: post
+title: awake
+---
+!/images/7.jpg (awake)!

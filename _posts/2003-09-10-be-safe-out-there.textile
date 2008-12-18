@@ -1,0 +1,5 @@
+---
+layout: post
+title: be safe out there
+---
+<a title="Secure Encryption with GPGMail on Mac OS X" href="http://www.macwrite.com/criticalmass/gpgmail-on-mac-os-x.php">Secure Encryption with GPGMail on Mac OS X</a>

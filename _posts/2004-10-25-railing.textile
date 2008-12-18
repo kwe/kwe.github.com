@@ -1,0 +1,15 @@
+---
+layout: post
+title: railing
+---
+"Rails 0.8.0":http://www.rubyonrails.org/show/HomePage is out and looking mighty fine. Especially nice is the new ActiveMailer stuff - email sending made easy.
+
+A quick..
+<code>./scripts/new_mailer Notification comment</code>
+
+created most of the code, then
+<code>
+Notification.deliver_comment(@comment)
+</code>
+
+in the comment controller does the trick - instant email notification of new comment posting!

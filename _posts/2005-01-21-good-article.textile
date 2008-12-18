@@ -1,0 +1,7 @@
+---
+layout: post
+title: good article
+---
+On [developing a Rails based application][1], written from the Windows based viewpoint, but still very relevant. And there's a part two to go..
+
+[1]:http://www.onlamp.com/pub/a/onlamp/2005/01/20/rails.html?page=1

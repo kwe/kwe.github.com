@@ -1,0 +1,6 @@
+---
+layout: post
+title: redesign
+---
+<a title="An Interview With Mike Davidson of ESPN (Part 1)" href="http://devedge.netscape.com/viewsource/2003/espn-interview/01/">An Interview With Mike Davidson of ESPN (Part 1)</a>
+

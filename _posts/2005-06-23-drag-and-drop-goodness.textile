@@ -1,0 +1,5 @@
+---
+layout: post
+title: drag and drop goodness
+---
+"Backpack now has drag and drop":http://backpackit.com/weblog/archives/new_features_updates/new_drag_and_drop_reordering_for_todos_and_notes.php and I just can't wait to add it to my projects..

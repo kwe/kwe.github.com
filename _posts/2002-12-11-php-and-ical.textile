@@ -1,0 +1,6 @@
+---
+layout: post
+title: php and ical
+---
+<a title="Mac OS X: iCalendar Files on Mac OS X" href="http://developer.apple.com/internet/macosx/icalendarfiles.html">Mac OS X: iCalendar Files on Mac OS X</a>
+

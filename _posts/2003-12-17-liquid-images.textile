@@ -1,0 +1,6 @@
+---
+layout: post
+title: liquid images
+---
+<a title="Images in liquid columns | clagnut/blog" href="http://www.clagnut.com/blog/268/">Images in liquid columns | clagnut/blog</a>
+

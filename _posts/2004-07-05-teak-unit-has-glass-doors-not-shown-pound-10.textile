@@ -1,0 +1,9 @@
+---
+layout: post
+title: teak unit has glass doors (not shown) &pound;10
+---
+Reduced for quick sale.
+
+<txp:image id="50" />
+
+<txp:image id="51" />

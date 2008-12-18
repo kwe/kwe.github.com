@@ -1,0 +1,5 @@
+---
+layout: post
+title: promising
+---
+<a title="skti - skEdit" href="http://skti.org/skEdit.php">skti - skEdit</a>. Looks like this is starting to become a very usable editor. I like the site concept and CVS (although this is not working right just yet - will be great).

@@ -1,0 +1,15 @@
+---
+layout: post
+title: pictures
+---
+I love this approach to portraits - "Venture":http://www.thisisventure.co.uk/
+
+Somewhat separately it led to this..
+
+<txp:image id="66" />
+
+once you start you can't stop
+
+<txp:image id="67" />
+
+<txp:image id="68" />

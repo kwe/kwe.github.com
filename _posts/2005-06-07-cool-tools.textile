@@ -1,0 +1,7 @@
+---
+layout: post
+title: cool tools
+---
+<img src="http://www.mpet45.co.uk/files//mysql.jpg" border="0" height="320" width="320" alt="mysql.jpg" align="" />
+
+Mysql release some "cool tools for OSX":http://www.mysql.com/products/administrator/ and a "query tool":http://www.mysql.com/products/query-browser/ 

@@ -1,0 +1,5 @@
+---
+layout: post
+title: firefoxy
+---
+"Firefoxy":http://www.macupdate.com/info.php/id/16118 makes Firefox look far better on OSX. It replaces the _horrid_ windows style form controls, with something a little more OSX like..

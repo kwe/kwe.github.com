@@ -1,0 +1,9 @@
+---
+layout: post
+title: binary bonsai &raquo; kubrick
+---
+<p><a href="http://binarybonsai.com/kubrick/">Binary Bonsai &raquo; Kubrick for WordPress</a>: "Kubrick a gpl look"</p>
+
+Ah! perhaps an easy way to get a _look_ for this site!
+
+*updated*: Done.

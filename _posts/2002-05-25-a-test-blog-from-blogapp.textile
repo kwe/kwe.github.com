@@ -1,0 +1,5 @@
+---
+layout: post
+title: a test blog from blogapp,
+---
+A test blog from <b>BlogApp</b>, did it work?

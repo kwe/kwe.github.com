@@ -1,0 +1,5 @@
+---
+layout: post
+title: nice resource
+---
+<a title="Front Page - css-discuss" href="http://css-discuss.incutio.com/">css-discuss Wiki</a>

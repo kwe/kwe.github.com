@@ -1,0 +1,6 @@
+---
+layout: post
+title: nice
+---
+<a title="Noel Jackson.com" href="http://www.noeljackson.com/code/photopal/">PhotoPal</a> a PHP driven photo gallery
+

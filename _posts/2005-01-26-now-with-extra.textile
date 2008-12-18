@@ -1,0 +1,12 @@
+---
+layout: post
+title: now with extra..
+---
+<img src="http://www.mpet45.co.uk/files//marsedit.jpg" border="0" height="187" width="278" alt="marsedit.jpg" align="" />
+
+I've managed to implement XMLRPC (with a little help from [this][2]) for this 'blog', so now I can have a go at using apps like [MarsEdit][1] to write posts and upload images..
+
+Next I need to implement tags for xmlrpc articles..
+
+[1]:http://ranchero.com/marsedit/
+[2]:http://blog.leetsoft.com/articles/read/2

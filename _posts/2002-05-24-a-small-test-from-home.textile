@@ -1,0 +1,5 @@
+---
+layout: post
+title: a small test from home,
+---
+a small test from home, now to setup email blogging!

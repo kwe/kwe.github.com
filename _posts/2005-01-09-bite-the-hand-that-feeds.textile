@@ -1,0 +1,12 @@
+---
+layout: post
+title: bite the hand that feeds?
+---
+Apple's recent legal action against [rumor][1] sites and some people who made available beta/alpha versions of Tiger seems silly to me. I can't really see what it achieves?! Firstly, the rumor sites add so much expectation and hype for apple products, secondly, they are run by Apple fanatics - why alienate them?
+
+The matter of Tiger previews is even sillier. Apple have an early access program, so what's the big secret? Again the people involved are massive Apple fans who would probably have queued all night to buy a copy of Tiger on the day of it's release.
+
+Perhaps there are no _good guys_ in the industry after all..
+
+
+[1]:http://www.thinksecret.com/

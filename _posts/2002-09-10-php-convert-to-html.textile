@@ -1,0 +1,9 @@
+---
+layout: post
+title: php convert to html
+---
+echo nl2br(htmlspecialchars($string),ENT_QUOTES);
+
+cfset my_text = #ReplaceList(my_text,"#Chr(10)#,#Chr(10)##Chr(13)#", 
+"BR,P","ALL")#
+

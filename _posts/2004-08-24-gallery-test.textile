@@ -1,0 +1,5 @@
+---
+layout: post
+title: gallery test
+---
+<txp:gallery category="megan" />

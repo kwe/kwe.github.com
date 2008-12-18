@@ -1,0 +1,7 @@
+---
+layout: post
+title: markdown
+---
+Markdown is a text-to-HTML conversion tool for web writers "Via":http://daringfireball.net/projects/markdown/
+
+Hmm, I like textile too much. I'm sure there's room for another one. The concept of it being readable without conversion has merit, but less elegant then Textile in my opinion.

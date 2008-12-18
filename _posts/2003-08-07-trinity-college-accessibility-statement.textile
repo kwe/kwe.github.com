@@ -1,0 +1,5 @@
+---
+layout: post
+title: trinity college - accessibility statement
+---
+<a title="Trinity College - Accessibility Statement" href="http://www.trinity.ox.ac.uk/accessibility_statement/">Trinity College - Accessibility Statement</a>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: ibm/ease of use/simplifying tasks.
+---
+<a href="http://www-3.ibm.com/ibm/easy/eou_ext.nsf/Publish/2174">IBM/Ease of Use/Simplifying Tasks</a>.

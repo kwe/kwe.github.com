@@ -1,0 +1,5 @@
+---
+layout: post
+title: word up
+---
+<a title="rewindlife: Serving Word" href="http://www.rewindlife.com/archives/000032.cfm">rewindlife: Serving Word</a>

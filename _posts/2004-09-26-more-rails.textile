@@ -1,0 +1,9 @@
+---
+layout: post
+title: more rails
+---
+Just added a 'Search' option. Added it to the Posts controller, but now I'm thinking perhaps I need a 'Search' controller, since I'm grabbing things like 'relevance' and not printing it out. Also I guess a search result listing should be different to a standard post listing..
+
+But, on reflection..
+
+A search is just another view on a set of posts, so it's probably correct where it is..

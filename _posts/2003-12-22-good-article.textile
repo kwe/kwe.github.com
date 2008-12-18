@@ -1,0 +1,5 @@
+---
+layout: post
+title: good article
+---
+<a title="From composite to CSS; A tableless, standards-compliant approach to web layouts" href="http://www.sizefactory.com/xhtml/swfwmd4/">From composite to CSS; A tableless, standards-compliant approach to web layouts</a>

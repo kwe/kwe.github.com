@@ -1,0 +1,112 @@
+---
+layout: post
+title: getting subversion for osx
+---
+*NB* This is a work in progress..
+
+Things you need to get..
+
+Subversion packages for OSX (for Windows see below..)
+
+from "here":http://homepage.mac.com/martinott/
+
+while your there you may as well also pick up "SubEthaEdit":http://www.codingmonkeys.de/subethaedit/ which is a cool editor.
+
+Install the package and you've got all you need to get started. 
+
+It installs everything into /usr/local/bin and you need to hug your Terminal.app to get started. 
+
+Fire up terminal and choose 'preferences' from the menu. Under 'When Creating a new Terminal window:' choose 'Excute this command' and make sure it says 
+
+<code>/bin/bash</code>
+
+then (once only) type the following...
+
+<code>echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile</code>
+
+This just adds a path to the subversion things to your terminal. to make it live, close the terminal window and re-open.
+
+you should now be able to type 
+
+<code>svn</code>
+
+and get back ..
+
+<code>Type 'svn help' for usage.</code>
+
+which just means that the terminal is setup properly.
+
+The "book on Subversion":http://svnbook.red-bean.com/ has getting started bits etc.
+
+extras you can get are things like "SCPlugin":http://scplugin.tigris.org/ and "svnx":http://www.lachoseinteractive.net/en/community/subversion/svnx/features/
+
+
+how I used it...
+
+-I create a repository as follows...-
+
+*WRONG*
+
+<code>mkdir /Library/repos </code>
+
+-Cause I can't be arsed to type _repository_ all the time..-
+
+*REVISED*
+
+The above is slightly wrong. A better was it..
+
+<code>svnadmin create /Library/repos</code>
+
+to create the repository. Then..
+
+Then I created a new folder on my desktop called <code>slideshow</code> and within it created some folders..
+
+* branches
+* tags
+* trunk
+
+Within *trunk* I put all the files and folders I wished to add as a project.
+
+then in terminal..
+
+<code>svn import ~/Desktop/slideshow file:///Library/repos/slideshow -m "starting out"</code>
+
+now delete the slideshow folder on your desktop.
+
+Then to start work you decide where the working copy is going to live .e.g desktop
+
+<code>cd ~/Desktop</code>
+
+and then checkout a copy..
+
+<code>svn co file:///Library/repos/slideshow/trunk</code>
+
+Then work as normally with this folder and it's contents
+
+h4. Adding more Projects
+
+Just create a folder, which includes three folders (tags, branches, trunk) e.g. homepage.
+
+Put files into homepage/trunk.
+
+then
+
+<code>svn import homepage file:///Library/repos/homepage -m "Start point"</code>
+
+*NB:* This is cleaner then what I was doing before i.e. creating a folder /Library/repos and then making each project a repository under it, by using _svnadmin create_. No need! 
+
+*One repository can hold lots of different projects.*
+
+h4. So What Projects do I have in my Repository?
+
+<code>svn list file:////Library/repos/</code>
+
+lists them!
+
+h4. Windows
+
+You can get it from "here":http://subversion.tigris.org/
+
+and also get a client that extends windows shell to include svn commands called  "tortoiseSVN":http://tortoisesvn.tigris.org/
+
+You then should be able to play nicely with the others..

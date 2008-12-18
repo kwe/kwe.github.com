@@ -1,0 +1,5 @@
+---
+layout: post
+title: new flash
+---
+<a title="Macromedia Flash - Downloads" href="http://www.macromedia.com/support/flash/downloads.html">Macromedia Flash - Downloads</a>. an update is available

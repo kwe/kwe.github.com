@@ -1,0 +1,5 @@
+---
+layout: post
+title: dynamic flash -- flash 7 player css example
+---
+<a title="Dynamic Flash :: Flash 7 Player CSS Example" href="http://www.dynamicflash.co.uk/flash7/stylesheet.html">Dynamic Flash :: Flash 7 Player CSS Example</a>

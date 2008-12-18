@@ -1,0 +1,6 @@
+---
+layout: post
+title: geeky ssa
+---
+<a title="ONLamp.com: Single Sign-on for Your Web Applications with Apache and Kerberos [Sep. 11, 2003]" href="http://www.onlamp.com/pub/a/onlamp/2003/09/11/kerberos.html">ONLamp.com: Single Sign-on for Your Web Applications with Apache and Kerberos [Sep. 11, 2003]</a>
+

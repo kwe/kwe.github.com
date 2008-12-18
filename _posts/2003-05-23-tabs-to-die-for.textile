@@ -1,0 +1,5 @@
+---
+layout: post
+title: tabs to die for
+---
+<a title="CSS Tabs :: Kalsey Consulting Group" href="http://www.kalsey.com/tools/csstabs/">CSS Tabs :: Kalsey Consulting Group</a>

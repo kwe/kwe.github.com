@@ -1,0 +1,6 @@
+---
+layout: post
+title: essential cvs
+---
+<a title="oreilly.com -- Online Catalog: Essential CVS" href="http://www.oreilly.com/catalog/cvs/chapter/index.html">oreilly.com -- Online Catalog: Essential CVS</a>. A CVS Quickstart guid ein PDF. (note use of German).
+

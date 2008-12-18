@@ -1,0 +1,11 @@
+---
+layout: post
+title: it's the standard you know..
+---
+This "post":http://www.philblog.com/mt-archive/2005/12/scoble_made_me.html seems to have started quite a discussion. Especially "here":http://scobleizer.wordpress.com/2005/12/19/i-made-phil-ripperger-stand-in-line-for-an-xbox-360/ in the comments.
+
+I think the solution for Microsoft is really easy. Stop designing web tools for monkeys. "Rails":http://www.rubyonrails.org works because "DHH":http://www.loudthinking.com/ has such a strong vision for the damn thing. It's a real tool which he developed because he needed it i.e. basecamp. *Opinionated* software for people will opinions.
+
+If I was still on Windows then I sure I'd be checking out the new .net tools and spending lots on servers, but "articles":http://scobleizer.wordpress.com/2005/11/01/ross-doesnt-trust-microsofts-approach-to-web/ like that just make me so glad I'm not wasting time on this stuff.
+
+ps> "Some more propoganda":http://softiesonrails.com/

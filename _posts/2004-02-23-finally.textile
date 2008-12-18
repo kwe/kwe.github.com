@@ -1,0 +1,8 @@
+---
+layout: post
+title: finally
+---
+<a title="Textpattern" href="http://textpattern.com/">Textpattern</a>
+
+
+Hir iw pob aros..

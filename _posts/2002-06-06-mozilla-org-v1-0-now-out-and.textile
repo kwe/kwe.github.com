@@ -1,0 +1,5 @@
+---
+layout: post
+title: mozilla.org v1.0 now out and
+---
+<a href="http://www.mozilla.org/">mozilla.org</a> v1.0 now out and looking mighty fine.

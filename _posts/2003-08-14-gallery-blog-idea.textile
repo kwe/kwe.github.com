@@ -1,0 +1,5 @@
+---
+layout: post
+title: gallery blog idea
+---
+<a title="chaotic intransient prose bursts: Create a fotolog with MovableType" href="http://www.kung-foo.tv/blog/archives/000585.php#000585">Create a fotolog with MovableType</a>

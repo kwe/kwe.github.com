@@ -1,0 +1,6 @@
+---
+layout: post
+title: colour again
+---
+<a title="Color scheme" href="http://www.pixy.cz/apps/barvy/index-en.html">Color scheme</a>
+

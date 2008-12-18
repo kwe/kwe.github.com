@@ -1,0 +1,13 @@
+---
+layout: post
+title: university golf day
+---
+!(border)/images/40.jpg (foolish golfer)!
+
+First game of golf in some 10 months went quite well. Still think it's a bit of a waste of a nice walk. Managed to come second in my group (in front of Tony and John Beech).
+
+Final score a 105 on a tough course. New 3 wood was fine apart from the first hole. Ball squeezed left a whole 10 foot - right in front of the club house - *Ops*
+
+*Here's John in action!*
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="326" height="236" id="beech" align="middle"> <param name="allowScriptAccess" value="sameDomain" /> <param name="movie" value="beech.swf" /> <param name="quality" value="high" /> <param name="bgcolor" value="#ffffff" /> <embed src="beech.swf" quality="high" bgcolor="#ffffff" width="326" height="236" name="beech" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object>

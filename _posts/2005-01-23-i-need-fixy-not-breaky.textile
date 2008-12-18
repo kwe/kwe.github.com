@@ -1,0 +1,9 @@
+---
+layout: post
+title: i need fixy not breaky
+---
+My iPod is playing up! I guess I removed it without _unmounting_ and now no desktop icon. You can still get at via the command-line, just no icon on the desktop (or anywhere in finder). Given [mearso's adventures][1], I'm sure he'll have the answer!!
+
+__Update__ all better now, just needed to restart the finder for some reason it was ignoring new devices.
+
+[1]:http://www.mearso.com/log/175/anyone-know-a-priest

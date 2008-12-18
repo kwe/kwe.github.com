@@ -1,0 +1,11 @@
+---
+layout: post
+title: love is..
+---
+![picture][1]
+
+[1]:/images/ibook.jpg(iBook)
+
+Difficult when your covered in ultratough polycarbonate plastic..
+
+_Presenting iBook_

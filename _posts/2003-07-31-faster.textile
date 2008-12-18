@@ -1,0 +1,5 @@
+---
+layout: post
+title: faster
+---
+<a title="Macromedia - Flash Player : Macromedia Flash Player 7 Public Beta" href="http://www.macromedia.com/software/flashplayer/public_beta/">Macromedia - Flash Player : Macromedia Flash Player 7 Public Beta</a>

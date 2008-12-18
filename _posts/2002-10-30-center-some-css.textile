@@ -1,0 +1,5 @@
+---
+layout: post
+title: center some css
+---
+<a href="http://http://developer.apple.com/internet/css/introcsslayout.html" target="_top">Apple site redone in css</a>.

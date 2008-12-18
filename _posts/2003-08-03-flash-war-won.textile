@@ -1,0 +1,20 @@
+---
+layout: post
+title: flash war won!
+---
+My weekend campaign against Macromedia Flash sems to have ended in victory. The Advert/slides/events program is beaten! For a demo(<a title="recentXML" href="http://www.welshrugbypics.co.uk/recentXML.html">Super slides</a>).
+
+This thing almost had me beat, I was on the ropes and reaching for my css book...
+
+So to recap....
+
+# grab a list of events/adverts/slides from a db
+# format as "xml":http://www.welshrugbypics.co.uk/mainEventsXML.php"
+# each has a potential for things like background colour and duration
+# grab them into flash and shuffle them to randomise the show
+# load an image (with progress bar)
+# load another image (off screen).
+# scroll the display when the second image finishes loading
+# repeat until sick
+
+This is rewrite number 3 and it better be right!

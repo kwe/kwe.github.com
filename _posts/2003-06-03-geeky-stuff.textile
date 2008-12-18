@@ -1,0 +1,6 @@
+---
+layout: post
+title: geeky stuff
+---
+<a title="Simon Willison: Using bookmarklets to experiment with CSS" href="http://simon.incutio.com/archive/2003/06/03/bookmarkletsAndCSS">Simon Willison: Using bookmarklets to experiment with CSS</a>
+

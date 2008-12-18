@@ -1,0 +1,6 @@
+---
+layout: post
+title: some really great flash
+---
+<a href="http://www.guggenheim.com/index2.html">Guggenheim.com</a>. Needs broadband, but is very slick and easy to use
+

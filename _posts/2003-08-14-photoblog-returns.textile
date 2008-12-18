@@ -1,0 +1,5 @@
+---
+layout: post
+title: photoblog returns
+---
+<a title="Burningbird: Faux PhotoBlog" href="http://weblog.burningbird.net/fires/001409.htm">Burningbird: Faux PhotoBlog</a>

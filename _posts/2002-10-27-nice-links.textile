@@ -1,0 +1,6 @@
+---
+layout: post
+title: nice links
+---
+<a title="webgraphics" href="http://www.web-graphics.com/">webgraphics</a>
+

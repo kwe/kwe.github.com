@@ -1,0 +1,5 @@
+---
+layout: post
+title: to zope or not to
+---
+To <a href="http://www.zope.org">Zope</a> or not to zope, that is the question...

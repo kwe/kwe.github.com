@@ -1,0 +1,5 @@
+---
+layout: post
+title: handy reference
+---
+<a title="empty pages (some movable type tips) template tags" href="http://www.emptypages.org/more/tags.html">empty pages (some movable type tips) template tags</a>. Actually the entire site is an awesome resource for "MT":http://www.movabletype.org

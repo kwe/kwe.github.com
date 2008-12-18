@@ -1,0 +1,27 @@
+---
+layout: post
+title: this evening i shall mainly be eating..
+---
+[RMagick][1], a surprisingly easy and powerful library for playing with images 
+
+e.g.
+
+`require 'RMagick'`
+
+`beech = Magick::Image.read('newyearbeach.jpg').first`
+`beech.change_geometry!('150x150') {|cols,rows,img|`
+`	img.resize!(cols,rows)`
+`}`
+`beech.border!(5,5,'black')`
+`beech.write('resize.jpg')`
+
+
+Creates a thumbnail of _at least_ 150px x 150px and adds a black 5 px border.
+
+![resized][2]
+
+Need to add this stuff to this blog software..
+
+
+[1]:http://rmagick.rubyforge.org/
+[2]:/images/resize.jpg

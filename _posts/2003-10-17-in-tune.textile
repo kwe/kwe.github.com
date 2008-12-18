@@ -1,0 +1,5 @@
+---
+layout: post
+title: in tune
+---
+Tried out "iTunes":http://www.itunes.com on a PEE-C tonight and it worked fine. Looks just like the Mac version and even played tracks from my Mac via music sharing. Can now feel less sorry for 95% of the computing world..

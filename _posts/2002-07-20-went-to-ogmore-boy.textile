@@ -1,0 +1,6 @@
+---
+layout: post
+title:  went to ogmore, boy
+---
+<p>
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="162" HEIGHT="121" id="windy" ALIGN=""><PARAM NAME=movie VALUE="/flash/windy.swf"> <PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE=#FFFFFF><EMBED src="/flash/windy.swf" quality=high bgcolor=#FFFFFF  WIDTH="162" HEIGHT="121" NAME="windy" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></embed></object></p><p>Went to <a href="/ogmore">Ogmore</a>, boy was it windy!</p>

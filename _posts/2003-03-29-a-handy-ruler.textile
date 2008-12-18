@@ -1,0 +1,6 @@
+---
+layout: post
+title: a handy ruler
+---
+<a title="centricle : this favelet rules." href="http://centricle.com/archive/2003/03/ruler">centricle : this favelet rules.</a>
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: day in a flash
+---
+<a title="A Day in the Life of a Macromedian" href="http://www.actionscript.com/archives/00000572.html">A Day in the Life of a Macromedian</a>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: glamour
+---
+!(picture)/images/winterhat.jpg(new hat)!
+
+but it's not all glamour you know..
+
+!(picture)/images/foodface.jpg(feed me)!

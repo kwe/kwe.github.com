@@ -1,0 +1,6 @@
+---
+layout: post
+title: print from xp
+---
+<a title="macosxhints - Print to Mac-connected DeskJet 970 from Windows" href="http://www.macosxhints.com/article.php?story=20021101062604548&query=print">macosxhints - Print to Mac-connected printer from Windows</a>
+

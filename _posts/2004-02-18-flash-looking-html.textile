@@ -1,0 +1,5 @@
+---
+layout: post
+title: flash looking html
+---
+<a title="..: TEKNISION V2:.." href="http://teknision.com/siteVersions/tek2/">..: TEKNISION V2:..</a>

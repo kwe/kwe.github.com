@@ -1,0 +1,14 @@
+---
+layout: post
+title: eh?
+---
+<img src="/images/041201chess.jpg" alt="Ajudicated" class="picture" />
+
+Another [game][1] and some [analysis][2], more later..
+
+[1]:http://kwe.textdrive.com/chess/041201/index.htm
+[2]:http://kwe.textdrive.com/chess/french/index.htm
+
+**Update**
+
+Just spoke to my Bill and he's offered a draw, which I've accepted. Good result given the fact that the position is lost for me..

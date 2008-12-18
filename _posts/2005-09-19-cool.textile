@@ -1,0 +1,7 @@
+---
+layout: post
+title: cool
+---
+<img src="http://www.mpet45.co.uk/files/portal1.jpg" border="0" height="146" width="320" alt="portal.jpg" />
+
+"Very cool Ajax Portal thingy":http://www.netvibes.com/ needs Firefox or even the great "Camino":http://www.caminobrowser.org/ (did I mention how great that is?)

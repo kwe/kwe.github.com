@@ -1,0 +1,5 @@
+---
+layout: post
+title: a link to my other
+---
+A link to my other <a href="http://www.mpet45.co.uk/gm/">My weblog</a> which is written from Greymatter.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: fma flashmx
+---
+One for Ed this one... A <a href="http://www.mpet45.co.uk/flash/fma/fma.html">Flexible Messaging Area</a>.

@@ -1,0 +1,7 @@
+---
+layout: post
+title: forms
+---
+<a title="Simon Willison: More CSS tips and tricks
+" href="http://simon.incutio.com/archive/2003/07/24/cssTipsAndTricks">Simon Willison: More CSS tips and tricks
+</a>

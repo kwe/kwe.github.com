@@ -1,0 +1,8 @@
+---
+layout: post
+title: asterisk* 2004 redesign case study
+---
+
+"Read more":http://www.7nights.com/asterisk/archives/asterisk_2004_redesign_case_study.php
+
+Another good article.

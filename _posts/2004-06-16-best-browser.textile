@@ -1,0 +1,5 @@
+---
+layout: post
+title: best browser!
+---
+"Firefox":http://www.mozilla.org/products/firefox/ by miles!

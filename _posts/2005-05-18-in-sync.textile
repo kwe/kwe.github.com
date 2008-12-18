@@ -1,0 +1,9 @@
+---
+layout: post
+title: in sync
+---
+"Inspired":http://sidesh0w.com/weblog/2005/02/02/mac_sync/ I need to look at a positive way of keeping things in sync between laptop and desktop. Tiger does a good job of bookmarks, keychain etc, but I need iPhoto sync (imagine losing those pics!!).
+
+Ok, will try it out..
+
+*Update*: "Synergy":http://synergy2.sourceforge.net/ works! Boy is it cool. Two display at home - heck two displays + two cpu's!

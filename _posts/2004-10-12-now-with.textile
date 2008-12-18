@@ -1,0 +1,7 @@
+---
+layout: post
+title: now with..
+---
+_Live Preview_
+
+take a little bit of Javascript and a lot of luck and you get a *live* preview. As you type..

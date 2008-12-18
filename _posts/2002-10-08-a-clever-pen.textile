@@ -1,0 +1,7 @@
+---
+layout: post
+title: a clever pen
+---
+<a href="http://www.logitech.com/index.cfm?page=products/features/digitalwriting&countryid=19&languageid=1">Logitech -  > Products > By Feature > Digital Writing</a>.
+A clever idea!!
+

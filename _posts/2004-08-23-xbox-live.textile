@@ -1,0 +1,27 @@
+---
+layout: post
+title: xbox live
+---
+!/images/70.jpg!
+
+Off work today with very very sore mouth after a bad reaction to some medication. So time for a little project...
+
+I'd got a 2 month 'free' Xbox live offer which was running out shortly so decided to have a go at joining. Of course the biggest problem is that the router is no where near the Xbox, but with all this wireless stuff around I was sure there must be a way.
+
+First up was the idea of using the Powerbook, a cross-over cable and 'internet sharing' under OSX.
+
+_No cigar!_
+
+Strangely it just did not work. From looking at the forums it looks like some changes in 10.3 may cause this..
+
+Ok, plan B
+
+A PC laptop, cross-over cable and ICS (internet connection sharing).
+
+Initially things looked easy, but the stupid PC keeps 'forgetting' about the wireless lan. ICS was also a pain because it insisted on allocating IP numbers that already existed on the LAN to the Xbox.
+
+So in typical M$ fashion the fix is to change everything else - since it seems you can't easily change the way ICS allocates numbers. So reconfigure the router, its firewall and all the Macs and *Hooray* - it works!
+
+Now for some gaming!
+
+(Sadly all this fiddling seems to have used up all my gaming time)

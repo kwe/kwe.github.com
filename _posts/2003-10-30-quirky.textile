@@ -1,0 +1,5 @@
+---
+layout: post
+title: quirky
+---
+<a title="QuirksMode - for all your browser quirks" href="http://www.quirksmode.org/">QuirksMode - for all your browser quirks</a>

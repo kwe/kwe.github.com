@@ -1,0 +1,7 @@
+---
+layout: post
+title: i want to..
+---
+Do [43things][1]. A very cool Rails app goes live.
+
+[1]:http://43things.com

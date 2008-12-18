@@ -1,0 +1,7 @@
+---
+layout: post
+title: she's got shoes
+---
+<img src="http://www.mpet45.co.uk/files//shoes.jpg" border="0" height="240" width="320" alt="shoes.jpg" />
+
+and knows how to use them!

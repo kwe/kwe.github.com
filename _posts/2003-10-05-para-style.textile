@@ -1,0 +1,5 @@
+---
+layout: post
+title: para style
+---
+<a title="Standardice - Mimicking Magazines" href="http://standardice.com/experimental/magazines.html">Standardice - Mimicking Magazines</a>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: bbc
+---
+<a title="matt jones | work & thoughts" href="http://www.blackbeltjones.com/work/mt/archives/000468.html">BBC homepage redesign</a>. The design process etc an amazing document - well worth a read :-)
+

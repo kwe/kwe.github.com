@@ -1,0 +1,6 @@
+---
+layout: post
+title: rubber head
+---
+<a title="Rubber Headers" href="http://www.pixy.cz/blogg/clanky/rubberheaders/">Rubber Headers</a>
+

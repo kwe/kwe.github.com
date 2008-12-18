@@ -1,0 +1,5 @@
+---
+layout: post
+title: macromedia - mx - executive
+---
+<a href="http://www.macromedia.com/software/mx/presentation/">Macromedia - MX : Executive Presentation</a>. This knid of reminds me to look into video and "if" we have a blue screen facility hidden in the LRC somewhere....

@@ -1,0 +1,7 @@
+---
+layout: post
+title: typo
+---
+As you see I've moved my blog over to "Typo":http://typo.leetsoft.com/
+
+While developing "weblogs":http://difference.weblog.glam.ac.uk can be _fun_ for personal use I think I'll let someone else take the *development strain*.

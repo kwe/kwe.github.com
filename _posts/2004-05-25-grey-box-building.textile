@@ -1,0 +1,5 @@
+---
+layout: post
+title: grey box building
+---
+A "interestingly geeky look":http://www.jasonsantamaria.com/archive/2004/05/24/grey_box_method.php at getting started with a design.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: bbc news | sci/tech |
+---
+<a href="http://news.bbc.co.uk/hi/english/sci/tech/newsid_2049000/2049048.stm">BBC News | SCI/TECH | Australian teleport breakthrough</a>. Beam me up!!

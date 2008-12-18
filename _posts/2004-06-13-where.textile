@@ -1,0 +1,11 @@
+---
+layout: post
+title: where?
+---
+!(border)/images/42.jpg (which way)!
+
+!(border)/images/43.jpg (which way)!
+
+!(border)/images/44.jpg (which way)!
+
+Ah! *There*!

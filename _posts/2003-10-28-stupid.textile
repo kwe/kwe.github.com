@@ -1,0 +1,5 @@
+---
+layout: post
+title: stupid
+---
+<a title="Why tables for layout is stupid: problems defined, solutions offered" href="http://www.hotdesign.com/seybold/index.html">Why tables for layout is stupid: problems defined, solutions offered</a>

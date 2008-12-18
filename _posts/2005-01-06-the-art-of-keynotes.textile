@@ -1,0 +1,33 @@
+---
+layout: post
+title: the art of keynotes
+---
+Sometimes you get timely reminders of why PC's suck..
+
+Just watch this [keynote][1], and marvel at M$ technology. The really cool thing is that it's not just PCs anymore.
+
+No, now you can easily take digital photos and watch them on you PC (!!!!). 
+
+Let's see a demo Bill!
+
+![One remote][2]
+
+it's not working Bill!!!
+
+![One Button][3]
+
+>"That's the problem when you have the wrong remote control, good thing you only have one though"
+
+_Bill presses the ONE button like a thing possessed_
+
+But Bill's not on his own, the (I assume ex-) head of "Media Center" then comes on and uses another _wrong_ remote (i.e. Bill's) to _do_ his presentation.
+
+hmm..
+
+[Think Different][4] guys. 
+
+
+[1]:http://www.microsoft.com/athome/ces2005/default.mspx
+[2]:/images/oneremote.jpg
+[3]:/images/onebutton.jpg
+[4]:http://www.apple.com

@@ -1,0 +1,7 @@
+---
+layout: post
+title: lots of words
+---
+<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0735711836/qid%3D1034192865/202-3109671-1393408">Object-oriented Programming With ActionScript</a>.
+Lots and lots of words and most of them essential reading. Big boy stuff, but Flash needs this...
+

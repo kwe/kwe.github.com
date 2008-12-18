@@ -1,0 +1,5 @@
+---
+layout: post
+title: filtered
+---
+How to filter out IE 5 Win and IE 5 Mac in a "new article":http://www.stopdesign.com/log/2004/07/06/filtering-css.html on stopdesign. Must do this!

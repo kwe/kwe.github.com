@@ -1,0 +1,5 @@
+---
+layout: post
+title: cvs and bbedit
+---
+<a title="Macworld: BBEdit Version Control" href="http://www.macworld.com/2003/09/secrets/bbeditversioncontrol/">Macworld: BBEdit Version Control</a>. A good intro, just lacks info about setting up "wrappers":http://www.mpet45.co.uk/myBlog/archives/000750.html to avoid problems with binary formats..

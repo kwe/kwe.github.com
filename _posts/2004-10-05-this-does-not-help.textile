@@ -1,0 +1,5 @@
+---
+layout: post
+title: this does not help
+---
+!(picture)/images/textmate_bbedit.jpg!

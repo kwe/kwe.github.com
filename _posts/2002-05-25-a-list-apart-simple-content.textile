@@ -1,0 +1,5 @@
+---
+layout: post
+title: a list apart- simple content
+---
+<a href="http://www.alistapart.com/stories/simplecontentmanagement/">A List Apart: Simple Content Management</a>. Yet another one..

@@ -1,0 +1,5 @@
+---
+layout: post
+title: xopus.org a html control thingy
+---
+<a href="http://xopus.org/index.jsp?menu=mozce">Xopus.org</a> A html control thingy for Mozilla.

@@ -1,0 +1,6 @@
+---
+layout: post
+title: soap and php
+---
+<a title="Working with Web Services - Using SOAP with PHP" href="http://developer.apple.com/internet/webservices/soapphp.html">Working with Web Services - Using SOAP with PHP</a>
+

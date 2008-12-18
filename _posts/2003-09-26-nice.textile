@@ -1,0 +1,5 @@
+---
+layout: post
+title: nice
+---
+<a href="http://www.inknoise.com/experimental/layoutomatic.php">Layout-o-matic</a>

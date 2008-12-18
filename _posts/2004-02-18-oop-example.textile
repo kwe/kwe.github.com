@@ -1,0 +1,5 @@
+---
+layout: post
+title: oop example
+---
+<a title="gotoAndPlay Tutorials -- Flash AS2 OOP game development" href="http://www.gotoandplay.it/_articles/2004/01/as2OOPgame.php">gotoAndPlay Tutorials -- Flash AS2 OOP game development</a>

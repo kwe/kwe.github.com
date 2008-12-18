@@ -1,0 +1,17 @@
+---
+layout: post
+title: xcode, subversion and actionscript
+---
+!/images/64.jpg (xcode in action)!
+
+The shortcomings of the standard ActionScript editor in Flash makes us all look for replacements. Apple's new Xcode 1.5 may just be the thing, especially once you add "an AS plugin":http://www.ericd.net/2004_08_08_blogger_archive.inc#109215064899937043 the result looks impressive.
+
+Also new to this version is Subversion support. This seems to work fine, once I figured out that Xcode was looking for svn in a different location to which I had it installed. A quick..
+
+@sudo ln -s /opt/subversion/ /usr/local/subversion@
+
+did the trick.
+
+*Update*
+
+and then I notice that you can set the path to svn in the project inspector, thus saving any need for commandline magic.

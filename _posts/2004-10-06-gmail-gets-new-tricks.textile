@@ -1,0 +1,11 @@
+---
+layout: post
+title: gmail gets new tricks
+---
+"Gmail":http://gmail.google.com has some new features. Firstly, it seems to work a lot better in Safari now. They've added 'Drafts'  and forwarding of email to another address. 
+
+-All very cool, but I'd like to see RSS support..-
+
+*Update:* They have, "https://gmail.google.com/gmail/feed/atom":https://gmail.google.com/gmail/feed/atom does the trick (an Atom feed). Thanks to John for the comment :-)
+
+Still got lots of Gmail accounts to give away so drop us a line if you want one..

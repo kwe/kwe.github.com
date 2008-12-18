@@ -1,0 +1,5 @@
+---
+layout: post
+title: handy
+---
+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin sit amet tortor at sapien mattis semper. Integer sollicitudin. Duis arcu leo, ornare et, convallis non, pellentesque eget, lacus. Sed vel lacus. Mauris porttitor dictum tellus. Proin a wisi sed mi venenatis tempor. Morbi scelerisque mi nec lorem. Vivamus sapien. Etiam cursus pretium sapien. Vestibulum lobortis augue ut risus. <a href="http://www.lipsum.com/">and you could have some toooo</a>.

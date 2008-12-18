@@ -1,0 +1,5 @@
+---
+layout: post
+title: a test entry from blogapp
+---
+A test entry from <i>BlogApp</i>

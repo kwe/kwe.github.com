@@ -1,0 +1,5 @@
+---
+layout: post
+title: a different colour box
+---
+<a title="The Box Model Problem  :: Community MX" href="http://www.communitymx.com/content/article.cfm?cid=E0989953B6F20B41">The Box Model Problem  :: Community MX</a>

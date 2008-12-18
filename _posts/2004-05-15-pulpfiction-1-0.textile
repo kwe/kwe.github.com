@@ -1,0 +1,7 @@
+---
+layout: post
+title: pulpfiction 1.0
+---
+a new "RSS/Atom feed reader":http://freshlysqueezedsoftware.com/products/pulpfiction/ from the same guys that make FTPeel.
+
+Some clever stuff with CSS to format message displays is noteworthy, is it good enough to challenge NetNewsWire?

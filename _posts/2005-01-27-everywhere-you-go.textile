@@ -1,0 +1,11 @@
+---
+layout: post
+title: everywhere you go ..
+---
+<p><a href="http://simon.incutio.com/slides/2005/bbc/">Web Standards at the Lawrence Journal-World</a>: "S5 slides"</p>
+
+Note cool way they spilt up the header to show weeks' weather...
+
+The [site is worth a visit][1]..
+
+[1]:http://www.6newslawrence.com/weather/

@@ -1,0 +1,9 @@
+---
+layout: post
+title: curious
+---
+<img src="/images/041215megs.jpg" alt="Curiosity" class="picture" />
+
+This is a note for Megs, 
+
+"Sweetheart, please eat you dinner, not just look out of windows at passing people.."

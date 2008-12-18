@@ -1,0 +1,6 @@
+---
+layout: post
+title: mac, php and loadvars
+---
+<a href="http://chattyfig.figleaf.com/flashcoders-wiki/index.php?LoadVariables">Flashcoders Wiki - LoadVariables</a>
+

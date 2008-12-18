@@ -1,0 +1,5 @@
+---
+layout: post
+title: thumb again
+---
+<a title="A List Apart: Practical CSS Layout Tips, Tricks and Techniques" href="http://www.alistapart.com/stories/practicalcss/">A List Apart: Practical CSS Layout Tips, Tricks and Techniques</a>

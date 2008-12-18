@@ -1,0 +1,5 @@
+---
+layout: post
+title: six apart guide to combatting comment spam
+---
+<p><a href="http://sixapart.com/pronet/comment_spam.html">Six Apart Guide to Combatting Comment Spam</a>. A good read..

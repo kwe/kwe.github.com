@@ -1,0 +1,5 @@
+---
+layout: post
+title: 3 cols
+---
+<a title="Three Column Layouts - css-discuss" href="http://css-discuss.incutio.com/?page=ThreeColumnLayouts">Three Column Layouts - css-discuss</a>

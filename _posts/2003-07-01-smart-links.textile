@@ -1,0 +1,7 @@
+---
+layout: post
+title: smart links
+---
+<a title="Simon Willison: Smarty Links
+" href="http://simon.incutio.com/archive/2003/04/22/smartyLinks">Simon Willison: Smarty Links
+</a>. Lots of lovely Smarty links to digest and spit out..

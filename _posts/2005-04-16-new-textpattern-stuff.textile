@@ -1,0 +1,5 @@
+---
+layout: post
+title: new textpattern stuff
+---
+Looks like I need to look at the latest releases - "lots of new features":http://www.hicksdesign.co.uk/journal/textpattern-notes-5---release-candidate-3 like sticky articles and admin plug-ins. Bet we could use them!!

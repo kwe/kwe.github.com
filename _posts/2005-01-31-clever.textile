@@ -1,0 +1,7 @@
+---
+layout: post
+title: clever..
+---
+<p><a href="http://www.loglibrary.com/dialogue/view/28">Subdomain as account key pattern</a></p>
+
+Now that I could use for lots of stuff!

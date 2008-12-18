@@ -1,0 +1,11 @@
+---
+layout: post
+title: hello?
+---
+!http://kwe.textdrive.com/images/74t.jpg!
+
+"Just trying for you now sir"..
+
+!http://kwe.textdrive.com/images/75t.jpg!
+
+"No answer.."

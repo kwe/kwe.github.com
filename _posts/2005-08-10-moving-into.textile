@@ -1,0 +1,9 @@
+---
+layout: post
+title: moving into
+---
+Medicine! 
+
+Now that my "healing powers":http://dpabbott.blogspot.com/2005/08/life-update-update.html are confirmed, bugger Rails I'm off to heal the world..
+
+ps> will be back for tea.

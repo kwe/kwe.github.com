@@ -1,0 +1,5 @@
+---
+layout: post
+title: hummm part 3
+---
+<a title="Cocoa Dev Central" href="http://cocoadevcentral.com/">Cocoa Dev Central</a>

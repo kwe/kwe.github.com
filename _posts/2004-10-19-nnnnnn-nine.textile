@@ -1,0 +1,7 @@
+---
+layout: post
+title: nnnnnn nine
+---
+!(picture)/images/nine.jpg(nine)!
+
+Dafydd is nine, and the camera is bust..

@@ -1,0 +1,5 @@
+---
+layout: post
+title: validate on campus
+---
+<a title="mrclay.org : Private Validator" href="http://mrclay.org/junk/software/private_validator/">mrclay.org : Private Validator</a>

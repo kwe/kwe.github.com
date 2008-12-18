@@ -1,0 +1,6 @@
+---
+layout: post
+title: flash remoting pdf
+---
+<a title="Macromedia ColdFusion MX MX - Using Macromedia Flash Remoting MX with Macromedia ColdFusion MX" href="http://www.macromedia.com/support/coldfusion/documentation/using_frmx_with_cfmx/">Macromedia ColdFusion MX MX - Using Macromedia Flash Remoting MX with Macromedia ColdFusion MX</a>
+

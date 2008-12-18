@@ -1,0 +1,7 @@
+---
+layout: post
+title: feed me
+---
+!(border)/images/52.jpg (food)!
+
+*now!*

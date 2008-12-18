@@ -1,0 +1,5 @@
+---
+layout: post
+title: yet another one
+---
+<a href="http://webreference.com/authoring/style/sheets/layout/advanced/">Another css article</a>.

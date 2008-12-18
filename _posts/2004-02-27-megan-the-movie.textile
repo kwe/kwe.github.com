@@ -1,0 +1,9 @@
+---
+layout: post
+title: megan the movie
+---
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="336" height="226" id="slepp" align="middle"> <param name="allowScriptAccess" value="sameDomain" /> <param name="movie" value="/babymovie/slepp.swf" /> <param name="quality" value="high" /> <param name="bgcolor" value="#ffffff" /> <embed src="/babymovie/slepp.swf" quality="high" bgcolor="#ffffff" width="336" height="226" name="slepp" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object>
+
+Taken last Saturday, so a little out of date and not exactly full of action.
+
+"Requires Flash player 7":http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash

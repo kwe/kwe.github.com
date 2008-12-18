@@ -1,0 +1,5 @@
+---
+layout: post
+title: virtually
+---
+For development it's great to setup "virtual hosts":http://www.evolt.org/article/Enabling_Virtual_Hosts_on_MacOS_X/18/13138/ locally on OSX.

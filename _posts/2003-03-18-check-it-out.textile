@@ -1,0 +1,6 @@
+---
+layout: post
+title: check it out
+---
+<a title="Accessify.com - accessibility favelets/bookmarklets to help you assess how accessible you web pages are" href="http://www.accessify.com/tools-and-wizards/accessibility-checking-favelets.asp">Accessify.com - accessibility favelets/bookmarklets to help you assess how accessible you web pages are</a>. Very handly
+

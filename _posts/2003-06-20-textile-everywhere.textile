@@ -1,0 +1,5 @@
+---
+layout: post
+title: textile everywhere
+---
+<a title="null" href="http://gu.st/proj/HumaneText.service/">Humane text</a>

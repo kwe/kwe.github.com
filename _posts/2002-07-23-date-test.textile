@@ -1,0 +1,5 @@
+---
+layout: post
+title: date test
+---
+a entry from the past

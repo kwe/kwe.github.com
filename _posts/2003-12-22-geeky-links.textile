@@ -1,0 +1,5 @@
+---
+layout: post
+title: geeky links
+---
+<a title="Jeffrey Veen: The Easiest Way to Publish del.icio.us Links on Your Site" href="http://veen.com/jeff/delicious-tutorial.html">Jeffrey Veen: The Easiest Way to Publish del.icio.us Links on Your Site</a>

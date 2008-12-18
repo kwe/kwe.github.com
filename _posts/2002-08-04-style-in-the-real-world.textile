@@ -1,0 +1,5 @@
+---
+layout: post
+title: style in the real world
+---
+<a href="http://www.realworldstyle.com/">Another CSS site.</a>

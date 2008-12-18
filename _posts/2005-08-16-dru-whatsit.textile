@@ -1,0 +1,5 @@
+---
+layout: post
+title: dru whatsit
+---
+All this "Drupal":http://www.drupal.org talks means you've just got to give it a go - even if it's just "to kick it's tires":http://www.mpet45.com

@@ -1,0 +1,13 @@
+---
+layout: post
+title: create
+---
+Doesn't [this][1] just make you want to go out and create something?
+
+Or is it just me??
+
+so I did..
+
+<img src="/images/railblog.jpg" width="320" height="320" class="picture" alt="rails" />
+
+[1]:http://www.cameronmoll.com/archives/000083.html

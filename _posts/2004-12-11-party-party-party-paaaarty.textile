@@ -1,0 +1,19 @@
+---
+layout: post
+title: party, party, party, paaaarty!
+---
+<img src="/images/041211party.jpg" alt="party" class="picture" />
+
+Not a drop of alcohol !!
+
+<img src="/images/041211japes.jpg" alt="fun" class="picture" />
+
+Lots of _fun_
+
+<img src="/images/041211kids.jpg" alt="the kids are ok" class="picture" />
+
+The kids are ok!
+
+<img src="/images/041211tired.jpg" alt="tired" class="picture" />
+
+Please let me go home!

@@ -1,0 +1,6 @@
+---
+layout: post
+title: remember
+---
+<a title="DNA/HHGG Infocom Adventure" href="http://www.douglasadams.com/creations/infocomjava.html">DNA/HHGG Infocom Adventure</a>
+

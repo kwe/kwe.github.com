@@ -1,0 +1,9 @@
+---
+layout: post
+title: almost ..
+---
+<img src="http://www.mpet45.co.uk/files//almost1.jpg" border="0" height="240" width="320" alt="almost1.jpg" />
+
+Almost [one year young][1] and despite the recent Evans' family flu, still playing!
+
+[1]:http://www.mpet45.co.uk/posts/show/1208

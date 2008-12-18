@@ -1,0 +1,6 @@
+---
+layout: post
+title: new rss reader
+---
+
+"Newsfire":http://www.sciforums.com/showthread.php?t=39967, although just a beta looks like it's going to be really great. Nice minimal interface and lots of OSX polish.

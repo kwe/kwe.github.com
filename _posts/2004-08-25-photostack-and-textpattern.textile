@@ -1,0 +1,6 @@
+---
+layout: post
+title: photostack and textpattern
+---
+
+Based on "this thread":http://forum.textpattern.com/viewtopic.php?id=1928 which is kind of cool, because this article has an embedded photostack gallery and if you click on an image you go to a photostack gallery which has textpattern tags, in this example just a list of recent articles at the bottom of the page. But obviously with more time it could be the entire page layout handled by txp. 

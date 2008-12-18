@@ -1,0 +1,9 @@
+---
+layout: post
+title: moving
+---
+I'm moving all my stuff over to "Textdrive":http://www.textdrive.com and although "textpattern":http://www.textpattern.com is now developing again, I'm seriously thinking I may just move to using this "Rails":http://www.rubyonrails.org based blog.
+
+_Hmm_
+
+moving the textpattern db over was simple, if a little crude - my categories all became _Ruby on Rails_, guess I'll have to learn some more ruby to get that bit right.

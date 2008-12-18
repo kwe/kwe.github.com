@@ -1,0 +1,30 @@
+---
+layout: post
+title: shuffle
+---
+How to randomise the display of slides/adverts/pictures....
+
+*ans*: Shuffle!<pre>
+Array.prototype.shuffle = function(times){ 
+      var max = this.length; 
+      var a, b, temp; 
+      while (times--){ 
+            a = Math.floor(Math.random() * max); 
+            b = Math.floor(Math.random() * max); 
+            temp = this[a]; 
+            this[a] = this[b]; 
+            this[b] = temp; 
+      } 
+} 
+myA = new Array();
+myA[0] = 0;
+myA[1] = 1;
+myA[2] = 2;
+myA[3] = 3;
+myA[4] = 4;
+myA[5] = 5;
+myA[6] = 6;
+trace(myA);
+myA.shuffle(2);
+trace(myA);
+</pre>

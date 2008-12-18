@@ -1,0 +1,7 @@
+---
+layout: post
+title: xyle scope
+---
+"Xyle Scope":http://www.culturedcode.com/xyle/ really looks quite good. The chance to easily see what's happening with your design and the ability to change it. I guess Firefox has some extensions that do all this, but this particular tool has style.
+
+Note also that "Flickr":http://flickr.com has gone all DHTML and Ajax for lots of stuff now.

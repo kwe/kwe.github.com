@@ -1,0 +1,5 @@
+---
+layout: post
+title: on fire
+---
+"Wired News: Building a Better Mozilla":http://www.wired.com/news/infostructure/0,1377,64085,00.html

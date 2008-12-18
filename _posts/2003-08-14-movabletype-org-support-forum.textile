@@ -1,0 +1,7 @@
+---
+layout: post
+title: movabletype.org - support forum
+---
+<a title="movabletype.org : Support Forum" href="http://www.movabletype.org/support/index.php?act=ST&f=14&t=25585&hl=&s=42d7c1f5501f516427b6f68715d9320c">movabletype.org : Support Forum</a>
+
+<$MTCategoryLabel$>

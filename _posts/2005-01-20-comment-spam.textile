@@ -1,0 +1,9 @@
+---
+layout: post
+title: comment spam
+---
+Google and others have announced  [a 'solution'][1], will look to implement..
+
+After some thought I'm not sure if this will really have much effect. It costs the spammer nothing to spam comments, so why stop? Unless the whole world adds this code, comment spam will still work..
+
+[1]:http://www.google.com/googleblog/2005/01/preventing-comment-spam.html

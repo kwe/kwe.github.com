@@ -1,0 +1,9 @@
+---
+layout: post
+title: domains domains and lighty
+---
+Events drove me to figure out adding domains to my textdrive account and serving them from lighttpd. The "manual":http://manuals.textdrive.com was a big help and so was the "snippets":http://snippets.textdrive.com of lighttpd stuff found there.
+
+So welcome "kwevans.com":http://www.kwevans.com, now what to use it for?
+
+hmm..

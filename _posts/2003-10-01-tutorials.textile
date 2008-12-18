@@ -1,0 +1,5 @@
+---
+layout: post
+title: tutorials
+---
+<a title="Ultrashock.com" href="http://www.ultrashock.com/ff.htm?http://www.ultrashock.com/tutorials/flashmx2004.php">Ultrashock.com</a>

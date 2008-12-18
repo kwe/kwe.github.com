@@ -1,0 +1,5 @@
+---
+layout: post
+title: phpmyadmin - mysql db administration
+---
+<a href="http://www.phpmyadmin.net/">phpMyAdmin - Mysql DB administration tool - www.phpmyadmin.net</a>. New version, adds lots of goodies, things like XML output and php help.

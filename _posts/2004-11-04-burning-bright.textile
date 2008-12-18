@@ -1,0 +1,17 @@
+---
+layout: post
+title: burning bright
+---
+!(picture)/images/tiger.jpg(Tiger)!
+
+Managed to get a sneak peek of "Tiger":http://developer.apple.com/macosx/tiger/tigerkit.html tonight on a friend's Mac. 
+
+Looking good!
+
+The impact of "spotlight":http://www.apple.com/macosx/tiger/spotlight.html will be great. Desktop search is big news, especially now people like "Google":http://desktop.google.com/ are involved.
+
+Spotlight is stunning and I can't wait to get my hands on it - bye bye _lost_ documents..
+
+Also very nice was the new look "Mail":http://www.apple.com/macosx/tiger/search_mail.html, with it's stunning new look and very clever _Smart Folders_.
+
+So, months to wait, but at least we'll get it before "Longhorn":http://www.microsoft.com/windows/longhorn/default.mspx

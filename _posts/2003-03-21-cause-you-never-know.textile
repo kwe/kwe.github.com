@@ -1,0 +1,6 @@
+---
+layout: post
+title: cause you never know
+---
+<a title="Macromedia - DevNet : Building a Persistent Shopping Cart with PHP and MySQL" href="http://www.macromedia.com/devnet/mx/dreamweaver/articles/php_cart.html">Macromedia - DevNet : Building a Persistent Shopping Cart with PHP and MySQL</a>
+

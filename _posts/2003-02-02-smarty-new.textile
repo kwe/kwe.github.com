@@ -1,0 +1,6 @@
+---
+layout: post
+title: smarty new
+---
+<a title="Smarty : Template Engine" href="http://smarty.php.net/">Smarty : Template Engine</a>. New version..
+

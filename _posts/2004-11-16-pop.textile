@@ -1,0 +1,7 @@
+---
+layout: post
+title: pop
+---
+My [Gmail][] account now has POP email support. Seems to work great!
+
+[Gmail]:http://gmail.google.com

@@ -1,0 +1,5 @@
+---
+layout: post
+title: lets dance
+---
+<a title="MOS" href="http://www.mamboserver.com/">MOS</a>

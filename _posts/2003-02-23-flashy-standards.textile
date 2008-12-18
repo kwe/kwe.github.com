@@ -1,0 +1,5 @@
+---
+layout: post
+title: flashy standards
+---
+<a href="http://www.mdavidson.com/frameset.html">Nice Flash site</a>, from the Guy involved in the ESPN redesign.

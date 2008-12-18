@@ -1,0 +1,5 @@
+---
+layout: post
+title: they're watching
+---
+"Unobtrusive Flash Objects":http://www.bobbyvandersluis.com/ufo/ the latest and quite possibly the greatest way to embed flash in your pages. Will use it soon.

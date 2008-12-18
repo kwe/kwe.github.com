@@ -1,0 +1,7 @@
+---
+layout: post
+title: seven percent
+---
+After some adventures with SMTP, python and commandlines, I've now managed to move all my email archives to "gmail":http://gmail.google.com.
+
+The whole lot comes to a _massive_ 7%.

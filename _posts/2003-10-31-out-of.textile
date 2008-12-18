@@ -1,0 +1,5 @@
+---
+layout: post
+title: out of..
+---
+<a title="the World as a Blog" href="http://www.brainoff.com/geoblog/">the World as a Blog</a>

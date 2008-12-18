@@ -1,0 +1,18 @@
+---
+layout: post
+title: everywhere you go..
+---
+!(picture)/images/instiki.jpg(Instiki)!
+
+Always take your "Instiki":http://www.instiki.org/show/HomePage with you..
+
+Since it is a great system for _Remembering_ things - "Why not have it available both at home and at work?", I thought.
+
+the only problem seemed to be that it saved it's database to ~/Library/Application Support/Instiki
+
+So I copied that directory to my iDisk and linked the old location to the new one with a 
+
+<code>ln -s /Volumes/iDisk/Documents/Instiki Instiki
+</code>
+
+It's probably a good idea to stop Instiki running before you switch locations..

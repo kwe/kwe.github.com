@@ -1,0 +1,13 @@
+---
+layout: post
+title: alpha is the new beta
+---
+Seems like the world's gone _Beta_ mad, but I for one think it's a really good idea. There's so much innovation happening on the web right now, from Ajax to Web 2.0, and it's all in beta and constantly evolving. 
+
+This is a real challenge for the big boys. It kind of struck me yesterday during a Sharepoint demo, just how _old_ sharepoint is looking. The interface was never very good, but now it's just ancient. Where are the 'tag clouds' (mullets for the internet age - zeldman)??. Just compare it with the shear elegance of "Backpack":http://www.backpackit.com - and try not to even think about the difference in cost. "Gmail":http://gmail.google.com is still a closed beta, but already sets the pace for email and don't even get me started on the wonder that is "Google maps":http://maps.google.co.uk
+
+Even "Rails":http://www.rubyonrails.com is a great example of this _new_ thinking. It's not even 1.0 yet and people are using it to build really special rich web applications. The kind of thing Macromedia promised but have yet to deliver on - how many flash RIA have you used today??
+
+Heck even "books now do betas":http://www.pragmaticprogrammer.com/titles/rails/index.html 
+
+So if you want to change the world, now is the time...

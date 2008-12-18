@@ -1,0 +1,9 @@
+---
+layout: post
+title: markdown
+---
+As mentioned below I've added [Markdown][1] support to posts. This is not any kind of _loss of faith_ with Textile, just that "Choice is good"!
+
+I think one advantage it does have is that the raw post text is very readable before conversion to html. **But** I'd personally miss that ability to specify css classes in the markup language.
+
+[1]:http://daringfireball.net/projects/markdown/

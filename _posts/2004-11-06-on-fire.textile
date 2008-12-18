@@ -1,0 +1,5 @@
+---
+layout: post
+title: on fire
+---
+!(picture)/images/fireworks.jpg(fireworks)!

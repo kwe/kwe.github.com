@@ -1,0 +1,5 @@
+---
+layout: post
+title: wiki wiki
+---
+A "cool little wiki":http://www.tiddlywiki.com/ written in javascript and needs no server side stuff.

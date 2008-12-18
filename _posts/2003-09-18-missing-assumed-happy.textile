@@ -1,0 +1,5 @@
+---
+layout: post
+title: missing, assumed happy...
+---
+<a title="Here there and everywhere." href="http://ebc.typepad.com/">Here there and everywhere.</a>

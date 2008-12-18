@@ -1,0 +1,5 @@
+---
+layout: post
+title: updated typo
+---
+I've just update "typo":http://typo.leetsoft.com/trac/ so ..there should now be extended articles

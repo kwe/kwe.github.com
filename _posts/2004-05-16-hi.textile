@@ -1,0 +1,7 @@
+---
+layout: post
+title: hi
+---
+!(border)/images/35.jpg (hi)!
+
+Megs says "Hi".

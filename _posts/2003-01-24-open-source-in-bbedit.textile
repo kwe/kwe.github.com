@@ -1,0 +1,7 @@
+---
+layout: post
+title: open source in bbedit
+---
+<a title="Daring Fireball: Safari Source in BBEdit" href="http://daringfireball.net/2003/01/safari_source_in_bbedit.html">Daring Fireball: Safari Source in BBEdit</a>.
+Handy script to open the currently viewed page in Safari in BBedit.
+

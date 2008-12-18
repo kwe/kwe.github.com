@@ -1,0 +1,7 @@
+---
+layout: post
+title: hooks
+---
+Making [svn even better][1], with hooks to do things like run scripts after commits etc
+
+[1]:http://www.petefreitag.com/item/244.cfm

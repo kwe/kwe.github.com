@@ -1,0 +1,7 @@
+---
+layout: post
+title: for ed
+---
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="320" height="100" id="ads" align=""> <param name=movie value="/ads/ads.swf"> <param name=quality value=high> <param name=bgcolor value=#FFFFFF> <embed src="/ads/ads.swf" quality=high bgcolor=#FFFFFF width="320" height="100" name="ads" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed> </object>
+
+Adverts loaded from an "xml file":http://www.mpet45.co.uk/ads/slides.xml order is shuffled and the duration of each slide is set in the xml. Needs a little more work to make it clickable.

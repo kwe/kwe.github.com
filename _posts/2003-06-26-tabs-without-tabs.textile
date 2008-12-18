@@ -1,0 +1,5 @@
+---
+layout: post
+title: tabs without tabs
+---
+<a title="SimpleBits | Mini Tabs" href="http://www.simplebits.com/code/minitabs.html">SimpleBits | Mini Tabs</a>. Like it, must use it - soon!

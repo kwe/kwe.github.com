@@ -1,0 +1,17 @@
+---
+layout: post
+title: laptop living
+---
+In the spirit of various month long geeky living articles, I'm trying to live a month using just a laptop. 
+
+_Why_?
+
+I guess I'm getting a little jaded of keeping everything sync'd 
+
+e.g. rubygems, Rails and textmate seems to change weekly and even with svn it's a bit of a bind.
+
+So my beloved iBook (best machine I've ever had - period) will be the machine of choice.
+
+Armed with additions like "Virtue":http://virtuedesktops.sourceforge.net/ and a spanking new Apple wireless mouse I think we will make it!
+
+I've just grabbed the new bbedit 8.1 which has great subversion support - still not enough to abandon textmate tho.

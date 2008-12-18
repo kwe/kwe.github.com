@@ -1,0 +1,5 @@
+---
+layout: post
+title: fantastic 4
+---
+All this time waiting for them to release version 1 and then jump right in with "version 4":http://forum.textpattern.com/viewtopic.php?id=10369

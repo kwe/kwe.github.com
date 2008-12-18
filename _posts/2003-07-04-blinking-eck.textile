@@ -1,0 +1,9 @@
+---
+layout: post
+title: blinking eck
+---
+<a title="Orange - Products and Services - mobile email" href="http://www.orange.co.uk/mobileemail/personal/">Mobile email</a>. For some reason my GPRS stuff just started working! 
+
+Even works with my _non-standard ISP_ i.e. Mac.com!
+
+*geek heaven*

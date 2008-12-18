@@ -1,0 +1,5 @@
+---
+layout: post
+title: playing with flash mx video.
+---
+Playing with Flash MX video. <a href="http://www.mpet45.co.uk/flash/movie.html">Movie</a> uses the new components (preloader and button). Preloader shows progress and after 50% loaded you can press the button to play the movie (100% and the movie plays anyway).

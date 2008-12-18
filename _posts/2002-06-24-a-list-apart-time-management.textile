@@ -1,0 +1,5 @@
+---
+layout: post
+title: a list apart- time management
+---
+<a href="http://www.alistapart.com/stories/pickle/">A List Apart: Time Management - The Pickle Jar Theory</a>. Lets throw rocks! (and not read e-mail)

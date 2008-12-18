@@ -1,0 +1,5 @@
+---
+layout: post
+title: some mt tricks
+---
+<a title="padawan.info: Using MT as a CMS" href="http://www.padawan.info//using_mt_as_a_cms.html">padawan.info: Using MT as a CMS</a>

@@ -1,0 +1,5 @@
+---
+layout: post
+title: php and databases
+---
+<a href="http://www.databasejournal.com/features/php/article.php/1485971">for the Lazy Sod!</a>. Looks good.

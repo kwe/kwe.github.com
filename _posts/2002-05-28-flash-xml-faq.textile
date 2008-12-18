@@ -1,0 +1,5 @@
+---
+layout: post
+title: flash xml faq
+---
+<a href="http://www.tupps.com/flash/faq/xml.html">Flash XML FAQ</a>

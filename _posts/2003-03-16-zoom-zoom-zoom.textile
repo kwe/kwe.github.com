@@ -1,0 +1,6 @@
+---
+layout: post
+title: zoom zoom zoom
+---
+<a title="Zoomify ::: High-resolution Imaging for the Web! Now in the Macromedia Flash Player!" href="http://www.zoomify.com/">Zoomify ::: High-resolution Imaging for the Web! Now in the Macromedia Flash Player!</a>
+

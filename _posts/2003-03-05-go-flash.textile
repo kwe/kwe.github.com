@@ -1,0 +1,5 @@
+---
+layout: post
+title: go flash
+---
+Macromedia have gone live with a beta version of <a href="http://www.macromedia.com/">Their site</a> in 100% flash.

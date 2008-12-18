@@ -1,0 +1,5 @@
+---
+layout: post
+title: quicker
+---
+I've been a longtime fan of Launchbar but this actually seems cooler - "Quicksilver":http://whatdoiknow.org/archives/001601.shtml

@@ -1,0 +1,5 @@
+---
+layout: post
+title: map
+---
+<a title="EducationGuardian.co.uk | Special Reports | 16.12.03 Interactive. Secondary school results" href="http://education.guardian.co.uk/flash/0,10281,1108034,00.html">EducationGuardian.co.uk | Special Reports | 16.12.03 Interactive. Secondary school results</a> interactive map idea for Mearso

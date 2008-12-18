@@ -1,0 +1,8 @@
+---
+layout: post
+title: pop goes gmail!
+---
+According to this [article][1] [Gmail][2] is to get POP support! Good news as it means access to [Gmail][2] from even my humble phone.
+
+[1]:http://gmail.google.com/support/bin/answer.py?answer=13294&topic=194&rand=0.9486637832987909
+[2]:http://gmail.google.com

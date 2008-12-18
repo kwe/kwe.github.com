@@ -1,0 +1,9 @@
+---
+layout: post
+title: now with extra goodness
+---
+We're up and running on "lighttpd":http://www.lighttpd.net and the whole thing is just plain great!
+
+Really need to give the blog software some love to get it all working again. Typo is looking great, but it would be lots of work to convert all the posts etc over..
+
+*Update* I did the work and it was easy, so here we are running Typo!

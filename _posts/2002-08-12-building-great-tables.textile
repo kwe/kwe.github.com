@@ -1,0 +1,5 @@
+---
+layout: post
+title: building great tables
+---
+<a href="http://www23.brinkster.com/favelets/accessible-table-builder-intro.htm">Table  preview thingy</a>.

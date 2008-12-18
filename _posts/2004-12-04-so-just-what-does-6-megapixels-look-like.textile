@@ -1,0 +1,9 @@
+---
+layout: post
+title: so just what does 6 megapixels look like?
+---
+<img src="/images/foodfight.jpg" alt="food fight" class="picture" />
+
+kind of like this..
+
+<img src="/images/eye.jpg" alt="eye" class="picture" />

@@ -1,0 +1,15 @@
+---
+layout: post
+title: xmlrpc link dump
+---
+For memory..
+
+1. [metaWeblogApi][1]
+2. [mt and xmlrpc][2]
+3. [xmlrpc library for textpattern][3]
+
+*todo* get categories/tag info for posts working..
+
+[1]:http://www.xmlrpc.com/metaWeblogApi
+[2]:http://www.movabletype.org/docs/mtmanual_programmatic.html#xmlrpc%20api
+[3]:http://www.pixelmeadow.com/blog/2005/1/23/xml-rpc-for-textpattern-v10/

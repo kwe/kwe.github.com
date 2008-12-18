@@ -1,0 +1,5 @@
+---
+layout: post
+title: take your pics
+---
+Using <a title="PhotoStack" href="http://photostack.org/">PhotoStack</a> for my "pics":http://www.mpet45.co.uk/photo and also "Photopattern":/pics for others.

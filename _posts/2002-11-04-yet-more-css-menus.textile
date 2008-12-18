@@ -1,0 +1,5 @@
+---
+layout: post
+title: yet more css menus
+---
+<a href="http://www.gazingus.org/dhtml/?id=109">More menus</a> based on just html lists :-)

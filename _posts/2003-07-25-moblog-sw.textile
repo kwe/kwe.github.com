@@ -1,0 +1,5 @@
+---
+layout: post
+title: moblog sw
+---
+<a title="Mfop2" href="http://www.bastish.net/cgi-bin/mfop2/index.cgi">Mfop2</a>

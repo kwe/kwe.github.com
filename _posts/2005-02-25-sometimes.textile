@@ -1,0 +1,19 @@
+---
+layout: post
+title: sometimes
+---
+I feel my geeky heart with break..
+
+meanwhile..
+
+1. [lighttpd][1] fast, secure and great with rails.. Perhaps we should [consider][4] it.
+2. [Quicksilver][2] and [more][3], great tips for an essential utility
+3. How does that _fatboy_ like [trac][5]..
+
+[1]:http://lighttpd.net/
+[2]:http://vjarmy.com/archives/2004/03/quicksilver_a_b.php
+[3]:http://vjarmy.com/archives/2005/02/quicksilver_fro.php
+[4]:http://weblog.textdrive.com/article/25/should-i-consider-lighttpd
+[5]:http://packages.gentoo.org/ebuilds/?trac-0.8
+
+oh and if you _still run Windoze_, tell me why?

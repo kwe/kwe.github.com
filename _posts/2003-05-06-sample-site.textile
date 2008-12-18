@@ -1,0 +1,5 @@
+---
+layout: post
+title: sample site
+---
+<a title="Footbag Freaks - Welcome" href="http://www.footbagfreaks.com/index.htm">Footbag Freaks - Welcome</a>

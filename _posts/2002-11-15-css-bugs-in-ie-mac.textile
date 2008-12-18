@@ -1,0 +1,6 @@
+---
+layout: post
+title: css bugs in ie/mac
+---
+<a href="http://http://www.macedition.com/cb/ie5macbugs/" target="_top">ie5macBugs</a>.
+now playing: <em>Setting Sun</em> from the album "Dig Your Own Hole" by <a href="http://www.google.com/search?q=%22Chemical Brothers%22" target="_blank">Chemical Brothers</a>

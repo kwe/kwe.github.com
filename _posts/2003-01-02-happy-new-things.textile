@@ -1,0 +1,6 @@
+---
+layout: post
+title: happy new things
+---
+<a title="Apple" href="http://www.apple.com/">Apple</a>, have released iCal and iSync updates. I guess this means something big for next Tuesday ?!
+

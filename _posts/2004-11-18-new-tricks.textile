@@ -1,0 +1,11 @@
+---
+layout: post
+title: new tricks
+---
+<img src="/images/meganup.jpg" alt="Don't stop me now" class="picture" />
+
+Megan's crawling and climbing is coming on a treat..
+
+[pics][1]
+
+[1]:http://kwe.textdrive.com/photostack/megs/

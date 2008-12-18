@@ -1,0 +1,5 @@
+---
+layout: post
+title: replaced
+---
+Congratulations to the "new ponty site":http://www.pontypriddrfc.co.uk - and xhtml strict 1.0 (even if it does no validate)

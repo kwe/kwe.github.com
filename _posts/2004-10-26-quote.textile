@@ -1,0 +1,5 @@
+---
+layout: post
+title: quote
+---
+bq. ".. humour newcomers with the (appearance of) choice"

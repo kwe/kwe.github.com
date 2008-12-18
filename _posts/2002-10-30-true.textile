@@ -1,0 +1,6 @@
+---
+layout: post
+title: true
+---
+<a title="HTML Gone Bad - If Architects Had To Work Like Web Designers" href="http://www.htmlgonebad.com/architect.html">HTML Gone Bad - If Architects Had To Work Like Web Designers</a>
+

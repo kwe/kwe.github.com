@@ -1,0 +1,5 @@
+---
+layout: post
+title: cms
+---
+<a title="PaperThin Home Page" href="http://www.paperthin.com/">PaperThin Home Page</a>

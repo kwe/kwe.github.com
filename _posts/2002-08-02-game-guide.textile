@@ -1,0 +1,5 @@
+---
+layout: post
+title: game guide
+---
+Praps this will help <a href="http://gamespot.com/gamespot/gameguides/pc/warcraft3/p2_01.html">Warcraft III</a> game guide.

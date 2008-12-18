@@ -1,0 +1,7 @@
+---
+layout: post
+title: more
+---
+"More Meyer on CSS":http://more.ericmeyeroncss.com/ is out and about. The first was good, so I've ordered the second one already.
+
+Full project files are now online so you can sample before you buy..

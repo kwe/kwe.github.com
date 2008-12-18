@@ -1,0 +1,9 @@
+---
+layout: post
+title: so is it any good?
+---
+!(picture)/images/textmate1.jpg(Textmate initial thoughts)!
+
+The short answer : *Yes*. But..
+
+Textmate is still very much a beta, but some nice stuff. Will post more soon - this entry is just a test of my new Rails image-upload! (which works!) e.g. "a list of images so far":/image/list

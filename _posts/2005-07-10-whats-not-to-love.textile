@@ -1,0 +1,5 @@
+---
+layout: post
+title: what's not to love?
+---
+Just how "lovable is Ruby on Rails":http://www.cafepress.com/rails_stuff.25707913 ? and just how cool are "tagclouds":http://portal.weblog.glam.ac.uk/ ?

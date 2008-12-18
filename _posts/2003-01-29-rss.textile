@@ -1,0 +1,6 @@
+---
+layout: post
+title: rss
+---
+<a title="Magpie RSS - PHP RSS Parser" href="http://magpierss.sourceforge.net/">Magpie RSS - PHP RSS Parser</a>
+

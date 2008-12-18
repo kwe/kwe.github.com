@@ -1,0 +1,6 @@
+---
+layout: post
+title: site of the day
+---
+<a href="http://www.uofaweb.ualberta.ca/">University of Alberta</a>
+

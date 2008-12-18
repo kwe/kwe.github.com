@@ -1,0 +1,8 @@
+---
+layout: post
+title: for mearso
+---
+function helloWorld(){
+	trace("Hello world");
+}
+setInterval(helloWorld,1000);

@@ -1,0 +1,5 @@
+---
+layout: post
+title: in a flash
+---
+"Macromedia - Flash MX 2004 : Flash MX 2004 7.2 Update":http://www.macromedia.com/software/flash/special/7_2updater/

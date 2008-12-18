@@ -1,0 +1,7 @@
+---
+layout: post
+title: only been there
+---
+<img src="http://www.world66.com/myworld66/visitedCountries/worldmap?visited=FRGRITESUKAU"><br/>
+<a href="http://www.world66.com/myworld66">create your own visited country map</a>
+ or <a href="http://www.world66.com">write about it on the open travel guide</a>

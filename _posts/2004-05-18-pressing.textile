@@ -1,0 +1,5 @@
+---
+layout: post
+title: pressing
+---
+In our quest for a cheap CMS perhaps we need to consider "WordPress":http://www.wordpress.org it's free and has users with _levels_ of authority etc. A -beta- RC1 of 1.2 is available for testing (imports MT).

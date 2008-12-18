@@ -1,0 +1,9 @@
+---
+layout: post
+title: go west
+---
+So I did..
+
+<a href="http://www.flickr.com/photos/kwe/482447/" title="photo sharing"><img src="http://www.flickr.com/photos/482447_7780aace01_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
+
+West Wales to be exact and obviously a trip to Borders for a Ruby book.

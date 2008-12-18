@@ -1,0 +1,17 @@
+---
+layout: post
+title: got text mate?
+---
+!/images/textmatelogo.png(missing)!
+
+First there was the "movie":http://media.nextangle.com/rails/rails_setup.mov then the "blog post":http://www.loudthinking.com/arc/000270.html - then the "website":http://www.macromates.com/ or even "the tease":http://www.macromates.com/textmate. Not to mention the "missed chance":http://www.macromates.com/beta
+
+-Finally, there was "the secret":http://textmate.nextangle.com/ and as September comes to a close all that is left to say-
+
+Textmate: the *Missing* editor for OSX
+
+wait...
+
+More "hype":http://justinfrench.com/index.php?id=50
+
+...

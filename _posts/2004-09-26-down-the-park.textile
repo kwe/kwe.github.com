@@ -1,0 +1,7 @@
+---
+layout: post
+title: down the park
+---
+Again. Test from phone.
+
+<div style="float: left; margin-left: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/kwe/580703/" title="photo sharing"><img src="http://www.flickr.com/photos/580703_2fd412b0b9_m.jpg" alt="" style="border: solid 2px #000000;" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">  <a href="http://www.flickr.com/photos/kwe/580703/">Autumn sand</a>  <br />  Originally uploaded by <a href="http://www.flickr.com/people/kwe/">kwe</a>. </span></div><br clear="all" />

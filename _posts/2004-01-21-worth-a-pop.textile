@@ -1,0 +1,6 @@
+---
+layout: post
+title: worth a pop
+---
+<a title="MacDevCenter.com: How to Set Up Encrypted Mail on Mac OS X [Jan. 20, 2004]" href="http://www.macdevcenter.com/pub/a/mac/2003/01/20/mail.html?page=1">MacDevCenter.com: How to Set Up Encrypted Mail on Mac OS X [Jan. 20, 2004]</a>
+

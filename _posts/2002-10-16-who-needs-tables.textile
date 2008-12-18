@@ -1,0 +1,6 @@
+---
+layout: post
+title: who needs tables?
+---
+<a title="[stop] design" href="http://www.stopdesign.com/">[stop] design</a>. Home site of the guy responsible for the <a href="http://www.wired.com">Wired</a> re-design to use xhtml and css instead of tables. Something his home site does also!
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: macromedia flash - creating a
+---
+<a href="http://www.macromedia.com/support/flash/applications/jpeg_slideshow_xml/">Macromedia Flash - Creating a JPEG slide show with XML</a>. If you wait long enough...

@@ -1,0 +1,5 @@
+---
+layout: post
+title: the coding monkeys
+---
+<a title="The Coding Monkeys" href="http://www.codingmonkeys.de/">The Coding Monkeys</a>. New release of the super Hydra - editor

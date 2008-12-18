@@ -1,0 +1,6 @@
+---
+layout: post
+title: useful
+---
+<a title="Browser screen captures in any browser, any version, any operating system." href="http://www.browsercam.com/default.aspx">Browser screen captures in any browser, any version, any operating system.</a>
+

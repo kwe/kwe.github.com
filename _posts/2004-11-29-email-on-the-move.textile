@@ -1,0 +1,8 @@
+---
+layout: post
+title: email on the move..
+---
+The Nokia 6600 inbuilt email client is quite cool, but [Profimail][1] is just great. Bought it on the weekend and full email on the move is mine (mine I tell you!!!).
+
+
+[1]:http://www.lonelycatgames.com/mobile/profimail/profimail.html

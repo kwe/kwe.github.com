@@ -1,0 +1,7 @@
+---
+layout: post
+title: paged
+---
+!/images/pageit.gif(paged)!
+
+Added _pagination_ by simply grabbing *pagination_helper.rb* from "here":http://actionpack.rubyonrails.org/show/PaginationHelper and adding it to the app/helpers. A few tweeks later.. effortless paging.

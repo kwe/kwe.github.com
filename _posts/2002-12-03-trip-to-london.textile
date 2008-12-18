@@ -1,0 +1,6 @@
+---
+layout: post
+title: trip to london
+---
+<a href="/photos/"><img alt="london.jpg" src="http://www.mpet45.co.uk/images/london.jpg" width="320" height="240" border="0" /></a>
+<p>Pictures from the trip</p>

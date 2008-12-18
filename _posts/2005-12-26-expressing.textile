@@ -1,0 +1,9 @@
+---
+layout: post
+title: expressing
+---
+Amongst all the festivities I've been playing with "EE Core 1.4":http://www.pmachine.com/ee/pricing/ and heck it's actually very nice.
+
+Expecially noteworthy is the way it handles custom fields. Really easy to create 'sections' that have different input/output needs. Very cool.
+
+Now if only they were cheaper.. 

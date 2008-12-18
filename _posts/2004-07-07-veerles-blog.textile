@@ -1,0 +1,5 @@
+---
+layout: post
+title: veerle's blog
+---
+a very "nice blog":http://veerle.duoh.com/

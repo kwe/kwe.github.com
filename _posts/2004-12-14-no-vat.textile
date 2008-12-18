@@ -1,0 +1,9 @@
+---
+layout: post
+title: no vat
+---
+[Tesco][1] have a clever little plan..
+
+Sell stuff on the web from Jersey i.e. no VAT - especially on items under ?�?¬£18.
+
+[1]:http://jersey.tesco.com/

@@ -1,0 +1,5 @@
+---
+layout: post
+title: css layout for pics
+---
+<a href="http://www.treetrybe.com/imm/photos/index.php?dir=meet_the_makers02">Nice and simple</a>.

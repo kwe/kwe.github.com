@@ -1,0 +1,9 @@
+---
+layout: post
+title: utopia
+---
+<a title="HTML Utopia: Designing Without Tables Using CSS" href="http://www.sitepoint.com/books/css1/">HTML Utopia: Designing Without Tables Using CSS</a>.
+
+It came yesterday, but alas Dafydd had a rough night so just picking it up now. Looks really good, with a nice reference section.
+
+My Zeldman did not arrive :-( but in a bizarre twist a lot of Amazon books for Amanda did arrive. Even though they were on a 3-5 day delivery and were only shipped yesterday...

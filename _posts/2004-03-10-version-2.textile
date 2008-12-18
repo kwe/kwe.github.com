@@ -1,0 +1,7 @@
+---
+layout: post
+title: version 2
+---
+Project Gutenberg Design Proces "Via":http://www.e-lusion.com/projectg.htm
+
+worth a read for some process inspiration.

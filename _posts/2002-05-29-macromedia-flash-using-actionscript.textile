@@ -1,0 +1,5 @@
+---
+layout: post
+title: macromedia flash - using actionscript
+---
+<a href="http://www.macromedia.com/support/flash/action_scripts/event_methods/event_methods02.html">Macromedia Flash - Using ActionScript event methods: About event methods</a><i>remember</i>!!

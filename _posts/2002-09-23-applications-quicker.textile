@@ -1,0 +1,6 @@
+---
+layout: post
+title: applications quicker..
+---
+<a href="http://ranchero.com/software/tigerlaunch/">Ranchero Software: TigerLaunch 1.0b3</a>
+

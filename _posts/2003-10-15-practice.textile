@@ -1,0 +1,5 @@
+---
+layout: post
+title: practice
+---
+<a title="Web Design Practices | Home" href="http://www.webdesignpractices.com/">Web Design Practices</a>. Good resource.

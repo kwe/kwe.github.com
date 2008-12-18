@@ -1,0 +1,7 @@
+---
+layout: post
+title: magic
+---
+<a title="
+        BBC NEWS | Technology | Web wizards weave their magic" href="http://news.bbc.co.uk/1/hi/technology/3190884.stm">
+        BBC NEWS | Technology | Web wizards weave their magic</a>

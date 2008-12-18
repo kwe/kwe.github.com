@@ -1,0 +1,15 @@
+---
+layout: post
+title: changes part 2
+---
+Lots of new software out there..
+
+* a new version of "Subversion for OSX":http://homepage.mac.com/martinott/
+
+* iGet - which looks promising for file transfers the easy way
+
+* RealPlayer 10 for OSX also looks like an improvement.
+
+I've started taking this site apart but not sure how long it going to take to mend. We're all still ill in Evans Mansions so it may well look like this for quite some time.
+
+I'll have to just copy "ed":http://www.ebcomley.co.uk, which will get confusing if "Mearso":http://www.mearso.com then copies me?! 

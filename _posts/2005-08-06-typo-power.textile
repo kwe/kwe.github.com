@@ -1,0 +1,7 @@
+---
+layout: post
+title: typo power
+---
+Move this blog to the latest version of "Typo":http://typo.leetsoft.com/trac/, thanks to the help of the guys on IRC -all- almost all the content made it across.
+
+Some great code and lots to learn from it. Now I need to create a theme..

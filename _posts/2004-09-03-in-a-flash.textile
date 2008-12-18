@@ -1,0 +1,5 @@
+---
+layout: post
+title: in a flash
+---
+The article on "encoding flash video":http://www.macromedia.com/devnet/mx/flash/articles/flv_encoding.html is back and improved. Good reference.

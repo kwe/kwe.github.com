@@ -1,0 +1,6 @@
+---
+layout: post
+title: another macromedia movie
+---
+<a href="http://www.macromedia.com/macromedia/story/">Macromedia: The Story</a>
+

@@ -1,0 +1,5 @@
+---
+layout: post
+title: moved
+---
+<a title="About me" href="http://www.mpet45.co.uk/">To here</a>

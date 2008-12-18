@@ -1,0 +1,6 @@
+---
+layout: post
+title: work
+---
+<a title="The 10 Technologies that Will Help You Stay Employed" href="http://www.devx.com/DevX/Article/10244/0/page/1">The 10 Technologies that Will Help You Stay Employed</a>
+

@@ -1,0 +1,52 @@
+---
+layout: post
+title: dynamic vhosts working..
+---
+So I finally got this to work..
+
+created a table called a _accounts_ which includes a field of _subdomain_ and added two rows, one with a sudomain of 'kwe' and another with a subdomain of 'fred'.
+
+Then the bit that took a while..
+
+<code>sudo vi /etc/hosts</code>
+
+and added two test domains..
+
+`127.0.0.1   kwe.multi.mine`
+
+`127.0.0.1   fred.multi.mine`
+
+Then
+
+<code>sudo vi /etc/httpd/httpd.conf</code>
+
+and added a vhost with an <code>ServerName *.multi.mine</code>
+
+now for the code..
+
+In _application.rb_
+
+`before_filter do |c| `
+
+`c.account = Account.find_by_subdomain(c.request.subdomains.first)`
+
+`end`	
+
+and then created a sample controller ( I called it test) which looked like..
+
+<code>
+class TestController < ApplicationController
+	
+attr_writer :account
+
+	def index
+		render_text "Hello World "+ @account['subdomain'].to_s
+	end
+end
+</code>
+
+and it all works!
+
+<img src="http://www.mpet45.co.uk/files//hellokwe.jpg" border="0" height="89" width="249" alt="hellokwe.jpg" align="" />
+
+<img src="http://www.mpet45.co.uk/files//hellofred.jpg" border="0" height="74" width="255" alt="hellofred.jpg" align="" />

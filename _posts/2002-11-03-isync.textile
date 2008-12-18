@@ -1,0 +1,6 @@
+---
+layout: post
+title: isync
+---
+<a title="iSync without .Mac" href="http://www.confusticate.com/tech/isync/">iSync without .Mac</a>
+

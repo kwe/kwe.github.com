@@ -1,0 +1,6 @@
+---
+layout: post
+title: ie bashing
+---
+<a title="101 things you can do in Mozilla" href="http://www.xulplanet.com/ndeakin/arts/reasons.html">101 things you can do in Mozilla</a>
+

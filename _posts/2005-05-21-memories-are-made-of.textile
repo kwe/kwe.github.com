@@ -1,0 +1,7 @@
+---
+layout: post
+title: memories are made of..
+---
+<img src="http://www.mpet45.co.uk/files//memory.jpg" border="0" height="368" width="320" alt="memory.jpg" align="" />
+
+The BBC has launched it's "Motion Gallery":http://www.bbcmotiongallery.co.uk

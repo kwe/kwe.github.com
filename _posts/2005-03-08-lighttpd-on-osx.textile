@@ -1,0 +1,46 @@
+---
+layout: post
+title: lighttpd on osx?
+---
+I've been trying to get a Rails app into production under OSX for a few days now, and I've run into some problems..
+
+* There's a good guide to <a href="http://theexciter.com/archives/2005/02/09/installing-lighttpd-1310-on-osx/">installing on OSX</a>.
+
+* On dual cpu Mac's (I've tested both G5 and G4), the config setting ..
+
+<code>
+server.event-handler = "freebsd-kqueue" 
+</code>
+
+crashes OSX (oops) under moderate load. Just type ..
+
+<code>
+ab -n 1000 -c 2 http://servername/railsapp/
+</code>
+
+and watch OSX die.
+
+Having spoken to the developer he recommends
+
+<code>
+server.event-handler = "poll"
+</code>
+
+as a possible solution. That seems to work for simple Rails apps.
+
+* Random crashes. This is the current problem. Lighttpd seems to 'abort' under low load and leave fcgi processes running. Looks like it's failing to throttle in spawned fcgi and crashing instead.. hmmm
+
+I've observed none of these problems running under Linux..
+
+So lighttpd seems to work fine for development (on single cpu Macs)...
+
+Anyone else tried it?
+
+*UPDATE*
+
+No dual-cpu OSX use..
+
+<code>
+server.event-handler = "select"
+</code>
+

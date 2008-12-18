@@ -1,0 +1,5 @@
+---
+layout: post
+title: blogskins.com news for that different
+---
+<a href="http://blogskins.com/">BlogSkins.com News</a> for that different look...

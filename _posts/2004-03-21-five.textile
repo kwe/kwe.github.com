@@ -1,0 +1,9 @@
+---
+layout: post
+title: five
+---
+Very nice resource for "php5":http://www.zend.com/php5/
+
+Looks like a great revision of the language, highlights are simpleXML, SOAP and the old OOP stuff.
+
+Good "article":http://phpmac.com/articles.php?view=159 on how to build and install it under MacOSX. 

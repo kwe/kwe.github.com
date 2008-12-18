@@ -1,0 +1,12 @@
+---
+layout: post
+title: on rails
+---
+![rails][1]
+
+Just found a new "religion" - [Ruby on Rails][2]. Finished a new web app to edit the course database in 30 mins!
+
+This is astonishing technology..
+
+[1]:/images/78.gif
+[2]:http://www.rubyonrails.org

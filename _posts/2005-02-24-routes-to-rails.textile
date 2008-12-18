@@ -1,0 +1,8 @@
+---
+layout: post
+title: routes to rails
+---
+[Rails 0.10.0][1] is out with lots of new stuff. Textdrive's already updated so this very blog now features Routes and other goodness..
+
+
+[1]:http://weblog.rubyonrails.com/archives/2005/02/24/rails-0100-routing-web-services-components-oracle/

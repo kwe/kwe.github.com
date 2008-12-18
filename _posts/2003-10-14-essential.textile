@@ -1,0 +1,5 @@
+---
+layout: post
+title: essential
+---
+<a title="MT-Blacklist - A Movable Type Anti-spam Plugin" href="http://www.jayallen.org/projects/mt-blacklist/">MT-Blacklist - A Movable Type Anti-spam Plugin</a>

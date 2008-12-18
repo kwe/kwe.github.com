@@ -1,0 +1,6 @@
+---
+layout: post
+title: smarty
+---
+<a href="http://www.webmasterbase.com/article.php/837">WebmasterBase - All About Smarty - The PHP Template Engine</a>. This looks really good!!
+

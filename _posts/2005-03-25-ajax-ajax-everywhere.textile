@@ -1,0 +1,5 @@
+---
+layout: post
+title: ajax ajax everywhere
+---
+<a href="http://www.welshrugbypics.co.uk/sandbox/two.php">Even here</a>. So just because you can, should you?

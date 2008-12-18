@@ -1,0 +1,5 @@
+---
+layout: post
+title: style
+---
+<a title="Book of Styles | No table? No problem!" href="http://www.bookofstyles.org/">Book of Styles | No table? No problem!</a>

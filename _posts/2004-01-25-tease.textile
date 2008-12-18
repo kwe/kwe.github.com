@@ -1,0 +1,6 @@
+---
+layout: post
+title: tease
+---
+<a title="Textism" href="http://textism.com/article/777/">Textism</a>
+

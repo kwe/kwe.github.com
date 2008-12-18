@@ -1,0 +1,15 @@
+---
+layout: post
+title: yes i did
+---
+Yesterday I braved the snow to go out and buy a "Nokia 6600":http://www.nokia.com/nokia/0,4879,33210,00.html
+
+What a seriously cool gadget! (and you can use it as a phone!!).
+
+Best so far is "Opera":http://www.opera.com/products/smartphone/ it does a seriously good job of rendering websites. The email client is also great and very usable. I've been using the T68i for this for some time and the way it chunks email into small bits is frustrating.
+
+"iSync":http://www.apple.com/isync worked great first time, only major difference is that it took over the entire calendar rather then just the next two weeks. Bluetooth is far faster then on the T68i and so far I've grabbed a few apps on the Mac and then copied them over. First up was a MSN messenger client and then a copy of _Putty_ a ssh client (geeky!!!).
+
+It comes with RealPlayer so I'm going to try video next..
+
+ps> no I've not used it as a phone.

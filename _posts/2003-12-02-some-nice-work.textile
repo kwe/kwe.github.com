@@ -1,0 +1,5 @@
+---
+layout: post
+title: some nice work
+---
+<a title="Michael Pick" href="http://www.mikepick.com/">Michael Pick</a>. Some nice work, and all in xhtml+css

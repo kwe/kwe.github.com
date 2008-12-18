@@ -1,0 +1,5 @@
+---
+layout: post
+title: os x with movable type
+---
+<a title="OS X with Movable Type" href="http://suckeffect.com/resources/how-to.html">OS X with Movable Type</a>. Includes a link to download mysql libraries.

@@ -1,0 +1,6 @@
+---
+layout: post
+title: book
+---
+<a title="CSSBook.com - Designing CSS Web Pages by Christopher Schmitt" href="http://www.cssbook.com/?from=clubaltruism">CSSBook.com - Designing CSS Web Pages by Christopher Schmitt</a>
+

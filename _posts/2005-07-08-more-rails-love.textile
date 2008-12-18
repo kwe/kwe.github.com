@@ -1,0 +1,28 @@
+---
+layout: post
+title: more rails love
+---
+Look away now if you can't take any more, it's another "Rails":http://www.rubyonrails.com love post.
+
+Just discovered a cool new feature - "Migration":http://api.rubyonrails.com/classes/ActiveRecord/Migration.html. This lets you define schema changes to databases easily. Brilliant!
+
+This came in handy today when I needed to add a 'position' column to a table for sliding/swooping ajax goodness
+
+<pre>
+class ListReorg < ActiveRecord::Migration
+  def self.up
+		add_column :links, :position, :integer, :default=>0
+  end
+
+  def self.down
+		remove_column :links, :position
+  end
+end
+
+</pre>
+
+and all is done..
+
+Oh, and hook your powerbook to the tv and watch "the new rails movie":http://weblog.rubyonrails.com/archives/2005/07/08/new-rails-movie-with-sound-and-sugar/
+
+bliss.

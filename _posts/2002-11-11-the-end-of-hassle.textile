@@ -1,0 +1,5 @@
+---
+layout: post
+title: the end of hassle?
+---
+<a href="http://www.macromedia.com/desdev/contribute/" target="_top">&lt;/hassle&gt;</a>

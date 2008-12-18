@@ -1,0 +1,7 @@
+---
+layout: post
+title: denim
+---
+<a title="Group for User Interface Research - DENIM" href="http://guir.berkeley.edu/projects/denim/">Group for User Interface Research - DENIM</a>
+
+Looks worth a go. A tool for designing _paper_ versions...

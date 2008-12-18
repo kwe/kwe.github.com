@@ -1,0 +1,7 @@
+---
+layout: post
+title: chapel christmas play
+---
+<img src="/images/angel.jpg" alt="Angel" class="picture" />
+
+and Dafydd was the definitive shepherd.

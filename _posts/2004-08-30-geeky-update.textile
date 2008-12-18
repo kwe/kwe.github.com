@@ -1,0 +1,7 @@
+---
+layout: post
+title: geeky update
+---
+Great article on "using Xcode with Flash":http://blog.pixelconsumption.com/index.php?p=15 and keeping up the editor theme, "BBedit 8":http://wwwbarebones.com.
+
+On the css front "sIFR":http://www.mikeindustries.com/blog/archive/2004/08/sifr looks promising. Lots to look at.

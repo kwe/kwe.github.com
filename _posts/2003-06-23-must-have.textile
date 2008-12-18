@@ -1,0 +1,7 @@
+---
+layout: post
+title: must have
+---
+<a title="Apple" href="http://www.apple.com/">Apple</a>. Must have new mac, must have new mac, must have new mac x 1500
+
+or world will end...

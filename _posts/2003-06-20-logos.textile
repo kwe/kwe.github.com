@@ -1,0 +1,5 @@
+---
+layout: post
+title: logos
+---
+<a title="www.logotypes.ru" href="http://www.logotypes.ru/default_e.asp">www.logotypes.ru</a>

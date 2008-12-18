@@ -1,0 +1,6 @@
+---
+layout: post
+title: meyer on css
+---
+<a href="http://www.ericmeyeroncss.com">Meyer on CSS</a> - great geeky book on CSS. Just completed the first chapter (<a href="http://www.mpet45.co.uk/meyer/ch01proj.html">Travel Guide: Ragged Point Inn</a>) styling a HTML table based layout..
+

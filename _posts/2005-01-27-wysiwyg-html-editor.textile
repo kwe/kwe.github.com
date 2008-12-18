@@ -1,0 +1,7 @@
+---
+layout: post
+title: wysiwyg html editor?!
+---
+<p><a href="http://www.themaninblue.com/writing/perspective/2005/01/27/">The Man in Blue >  widgEditor: A simple, standards-compliant WYSIWYG HTML editor</a>
+
+So if I was looking for one, which I'm **not**, I'd use this.

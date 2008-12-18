@@ -1,0 +1,7 @@
+---
+layout: post
+title: encode
+---
+A "great article on encoding video in Flash":http://www.macromedia.com/devnet/mx/flash/articles/flv_encoding.html
+
+Strange this article seems to have disappeared!

@@ -1,0 +1,5 @@
+---
+layout: post
+title: zen
+---
+<a title="css Zen Garden: The Beauty in CSS Design" href="http://www.mezzoblue.com/zengarden/">css Zen Garden: The Beauty in CSS Design</a>

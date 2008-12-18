@@ -1,0 +1,5 @@
+---
+layout: post
+title: nokia photoblog
+---
+This looks "cool":http://www.mobilewhack.com/handset/nokia/apps/nokia_photoblog.html

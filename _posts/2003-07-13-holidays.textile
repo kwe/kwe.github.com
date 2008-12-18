@@ -1,0 +1,5 @@
+---
+layout: post
+title: holidays
+---
+"Edinburgh 2003":http://www.mpet45.co.uk/photo/?album=edinburgh

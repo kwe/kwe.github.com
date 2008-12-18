@@ -1,0 +1,26 @@
+---
+layout: post
+title: starting over
+---
+All the changes to [Rails][1] since I wrote my blog software means this is a good time for a rewrite.
+
+So here we go..
+
+This time round ..
+
+* tracebacks
+* proper comment system
+* xmlrpc support
+* tags
+* use flickr and del.icio.us for images and links
+* caching!
+
+hmm, we'll see..
+
+and on the subject of images - [postcardviewer][2] is neat! [Here's][3] a [local demo][3]
+
+must must have tags !!
+
+[1]:http://www.rubyonrails.com
+[2]:http://www.airtightinteractive.com/projects/postcardviewer/
+[3]:http://kwe.textdrive.com/postcards/

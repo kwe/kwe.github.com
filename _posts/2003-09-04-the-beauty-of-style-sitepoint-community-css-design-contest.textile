@@ -1,0 +1,5 @@
+---
+layout: post
+title: the beauty of style - sitepoint community css design contest
+---
+<a title="The Beauty of Style : SitePoint Community CSS Design Contest" href="http://contest.prestontalk.com/">The Beauty of Style : SitePoint Community CSS Design Contest</a>. Once more into the Garden?!

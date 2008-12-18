@@ -1,0 +1,14 @@
+---
+layout: post
+title: progress
+---
+Making good progress with the Stock management system..
+
+<ul>
+<li>Stock items can be added</li>
+<li>Amended and deleted</li>
+<li>They can be assigned to categories</li>
+<li>Categories can be created, modified and deleted</li>
+<li>Pictures can be browsed</li>
+</ul>
+Next up is a mailinglist and picture upload...

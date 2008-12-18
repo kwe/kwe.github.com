@@ -1,0 +1,13 @@
+---
+layout: post
+title: msn starts blogs
+---
+Called [Spaces][1], Microsoft's blogging tool is live - I've even [got one][2].
+
+Some [Video][3] of a demo.
+
+Is it me, or are they trying to make it hard?
+
+[1]:http://spaces.msn.com
+[2]:http://spaces.msn.com/members/aboutus/
+[3]:http://channel9.msdn.com/ShowPost.aspx?PostID=30998

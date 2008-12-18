@@ -1,0 +1,6 @@
+---
+layout: post
+title: yatls
+---
+<a title="norlonto.net" href="http://norlonto.net/">norlonto.net</a>.Yet Another Tabless Site.
+

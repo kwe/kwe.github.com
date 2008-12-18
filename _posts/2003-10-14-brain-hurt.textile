@@ -1,0 +1,5 @@
+---
+layout: post
+title: brain hurt
+---
+<a title="Actionscript 2.0 Class Tutorial" href="http://www.video-animation.com/flash_15.shtml">Actionscript 2.0 Class Tutorial</a>

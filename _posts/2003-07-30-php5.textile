@@ -1,0 +1,6 @@
+---
+layout: post
+title: php5
+---
+<a title="SitePoint : Empowering Web Developers Since 1997" href="http://www.sitepoint.com/print/1192">php 5 beta 1</a>.
+Nice introduction...

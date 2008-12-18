@@ -1,0 +1,5 @@
+---
+layout: post
+title: refreshing
+---
+<a title="The Register" href="http://www.theregister.co.uk/content/69/30750.html">1000 pubs get wi-fi</a>

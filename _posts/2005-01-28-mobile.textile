@@ -1,0 +1,11 @@
+---
+layout: post
+title: mobile
+---
+<img src="http://www.mpet45.co.uk/files//megswalking.jpg" border="0" height="256" width="320" alt="megswalking.jpg" />
+
+[View Quicktime movie][1]
+
+Some first steps with the assistance of her cool buggy.
+
+[1]:http://www.mpet45.co.uk/files/megswalking.mp4

@@ -1,0 +1,5 @@
+---
+layout: post
+title: a test entry
+---
+Using <a href="http://www.kung-foo.tv/kunglog.php">Kung Log</a>

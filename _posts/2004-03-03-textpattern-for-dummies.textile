@@ -1,0 +1,5 @@
+---
+layout: post
+title: textpattern for dummies
+---
+"Good article":http://www.jdueck.net/articles/textpattern.html on texpattern and what it all means. This is shaping up to being a good CMS, which will allow page based development as well as blog stuff. Perhaps the engine for UoG?

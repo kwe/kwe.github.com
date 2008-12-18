@@ -1,0 +1,7 @@
+---
+layout: post
+title: site update
+---
+Graphics all working on your new site. Only bit left is to point the email form at a secure area.
+
+<strong>Update:</strong> Secure form all setup and ready to go. Now we just need to get your domain name pointing at the new server, i.e. www.qualitydiecasttoys.com moved from your old server to the new one.

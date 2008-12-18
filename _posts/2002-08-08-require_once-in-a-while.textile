@@ -1,0 +1,6 @@
+---
+layout: post
+title: require_once in a while
+---
+<a href="http://www.alistapart.com/stories/phpcms/">A List Apart: Manage your content with PHP</a>
+

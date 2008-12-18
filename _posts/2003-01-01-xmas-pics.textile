@@ -1,0 +1,5 @@
+---
+layout: post
+title: xmas pics
+---
+<a href="/photos/index.php?dir=xmas"><img alt="xmasSmile.jpg" src="http://www.mpet45.co.uk/myBlog/images/xmasSmile.jpg" width="340" height="216" border="0" /><p>some images from Xmas</a></p>

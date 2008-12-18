@@ -1,0 +1,12 @@
+---
+layout: post
+title: kev detector
+---
+!/work.jpg!
+
+!/webcam.jpg!
+
+Am I *Retired or not?*. I guess only time (and the camera) will tell...
+
+Actually just knocked up a "RSS":http://www.pontypriddrfc.co.uk/rss.php feed for the ponty site. Works great with NetNewsWire - the wonders of "smarty":http://smarty.php.net
+

@@ -1,0 +1,9 @@
+---
+layout: post
+title: oh no, it's 1.0
+---
+"Rails":http://www.rubyonrails.org hits the magic *1.0*. 
+
+Just amazing software and evena  new Web2.0 website design..
+
+Even amidst the snot-fest of the Evans' household - this is good news!

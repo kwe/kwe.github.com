@@ -1,0 +1,5 @@
+---
+layout: post
+title: photojunkie
+---
+"Fun with MT Photogallery":http://www.photojunkie.org/archives/2004/04/12/fun_with_mt_photogallery.php

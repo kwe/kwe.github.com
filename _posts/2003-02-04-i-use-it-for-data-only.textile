@@ -1,0 +1,5 @@
+---
+layout: post
+title: i use it for data only..
+---
+<a title="Linux on iPod" href="http://ipodlinux.sourceforge.net/screens.shtml">Linux on iPod</a>

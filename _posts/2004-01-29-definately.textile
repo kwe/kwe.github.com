@@ -1,0 +1,6 @@
+---
+layout: post
+title: definately
+---
+<a title="Definition lists for image gallery" href="http://www.maxdesign.com.au/presentation/definition/dl-image-gallery.htm">Definition lists for image gallery</a>
+

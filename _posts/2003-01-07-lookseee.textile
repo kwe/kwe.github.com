@@ -1,0 +1,6 @@
+---
+layout: post
+title: lookseee
+---
+<a title="Apple - Safari" href="http://www.apple.com/safari/">Apple - Safari</a>. a new Browser..
+

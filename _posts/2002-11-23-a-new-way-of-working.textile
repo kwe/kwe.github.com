@@ -1,0 +1,5 @@
+---
+layout: post
+title: a new way of working
+---
+<a href="http://developer.apple.com/internet/macosx/cvsoverview.html">CVS</a>. Been trying this out over the last few days and it Rocks! Especially once I put the CVSROOT on my iPod.

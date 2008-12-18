@@ -1,0 +1,6 @@
+---
+layout: post
+title: tableless layout with dreamweaver
+---
+<a title="Macromedia - Designer & Developer : Tableless layout with Dreamweaver" href="http://www.macromedia.com/desdev/mx/dreamweaver/articles/tableless_layout.html">Macromedia - Designer & Developer : Tableless layout with Dreamweaver</a>
+

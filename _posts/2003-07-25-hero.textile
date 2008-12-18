@@ -1,0 +1,5 @@
+---
+layout: post
+title: hero
+---
+<a title="css Zen Garden: The Beauty in CSS Design" href="http://www.csszengarden.com/?cssfile=/031/031.css&page=0">css Zen Garden: The Beauty in CSS Design</a>. We have a new css hero!

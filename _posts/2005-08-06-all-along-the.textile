@@ -1,0 +1,5 @@
+---
+layout: post
+title: all along the ..
+---
+"Switchtower":http://manuals.rubyonrails.com/read/book/17 application deployment and so much more.

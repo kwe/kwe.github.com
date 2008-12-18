@@ -1,0 +1,36 @@
+---
+layout: post
+title: you know if you've got it bad when ..
+---
+.. you are in a meeting and someone mentions the need for online staff CV's. And instead of taking notes you find yourself starting up [CocoaSQL][1] and adding some fields. And then before you can stop, the shaking starts and up comes [iTerm][2] and 
+
+<code>rails ~/Sites/cv</code>.
+
+Then it gets worst..
+
+<code>cd ~/Sites/cv</code>
+
+<code>script/generate model Person</code>
+
+<code>script/generate controller People</code>
+
+<code>script/generate scaffold Person</code>
+
+and before you can stop yourself..
+
+<code>script/server</code>
+
+and the bloody things' up and running - a working _database driven staff CV_ - Damn.
+
+Haven't even run [Textmate][4] yet to add some corporate css...
+
+__see__ if I'd just become an Accountant it would all be so much easier..
+
+None of this [new damn magic][5] to play with..
+
+
+[1]:http://cocoamysql.sourceforge.net/
+[2]:http://iterm.sourceforge.net/
+[3]:http://macromates.com/
+[4]:http://macromates.com/
+[5]:http://www.rubyonrails.com

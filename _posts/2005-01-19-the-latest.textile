@@ -1,0 +1,11 @@
+---
+layout: post
+title: the latest ..
+---
+First basecamp, then [43things][3] and now [TaDa][1] lists done with style..
+
+I've even created a [public list][2]
+
+[1]:http://www.tadalist.com/theater
+[2]:http://kwe.tadalist.com/lists/public/1131
+[3]:http://www.43things.com

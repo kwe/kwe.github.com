@@ -1,0 +1,5 @@
+---
+layout: post
+title: toys
+---
+<a title="Adobe Creative Suite" href="http://www.adobe.com/products/creativesuite/">Adobe Creative Suite</a>

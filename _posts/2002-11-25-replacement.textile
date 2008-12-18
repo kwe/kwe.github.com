@@ -1,0 +1,5 @@
+---
+layout: post
+title: replacement
+---
+<a href="http://www.gazingus.org/js/?id=107">Nice script</a> to add to webforms that input text for websites.

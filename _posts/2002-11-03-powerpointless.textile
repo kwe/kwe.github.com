@@ -1,0 +1,5 @@
+---
+layout: post
+title: powerpointless
+---
+<a href="http://www.macromedia.com/desdev/mx/flash/articles/flash_presentations.html">handy!</a>.

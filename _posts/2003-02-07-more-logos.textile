@@ -1,0 +1,10 @@
+---
+layout: post
+title: more logos
+---
+three new logo ideas and one revised one, click on the links below to view...
+
+<a href="/qdt/qdtlogos/qdt_logo01.gif">One</a>
+<a href="/qdt/qdtlogos/qdt_logo02.gif">Two</a>
+<a href="/qdt/qdtlogos/qdt_logo03.gif">Three</a>
+<a href="/qdt/qdtlogos/qdt_logo04.gif">Four</a>

@@ -1,0 +1,19 @@
+---
+layout: post
+title: halo2 online
+---
+<img src="/images/halostats.jpg" alt="Halo 2 stats" class="picture" />
+
+Managed to sneak on-line with Halo 2 last/this evening/morning. Quite an experience, Xbox live is really busy right now with Halo 2.
+
+On clever bit is that [Bungie][1] publish rss feeds for each play. Mine are [here][2]. Five games and sadly no wins - although I did progress to level 2 (whatever that means?!).
+
+<img src="/images/statsdetails.jpg" alt="Detail stats" class="picture" />
+
+Just look at the details they record!!
+
+The [detail][3] is just amazing!!!
+
+[1]:http://www.bungie.net/stats
+[2]:http://www.bungie.net/stats/halo2rss.ashx?i=381761&k=476249144
+[3]:http://www.bungie.net/stats/richgame.aspx?g=14970548&mn=0&mx=360&v=44&p=0&zs=1

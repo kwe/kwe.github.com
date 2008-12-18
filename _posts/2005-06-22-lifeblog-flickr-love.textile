@@ -1,0 +1,9 @@
+---
+layout: post
+title: lifeblog + flickr = love
+---
+Now that I have a 6630, I can finally use "lifeblog":http://www.nokia.com/nokia/0,1522,,00.html?orig=/lifeblog/ 
+
+I'd kind of been toying with the idea of writing a atom connector for typo to allow blogging from lifeblog - when flickr "did it for me":http://www.russellbeattie.com/notebook/1008375.html
+
+hmm. need some debugging, but pictures are going to flickr ok, just need to work out why they are not getting to the blog also..

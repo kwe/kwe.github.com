@@ -1,0 +1,5 @@
+---
+layout: post
+title: old and geeky
+---
+You know your old and geeky when you spend Saturday night writing "metaWeblog":http://www.xmlrpc.com/metaWeblogApi handlers in "Rails":http://www.rubyonrails.com.

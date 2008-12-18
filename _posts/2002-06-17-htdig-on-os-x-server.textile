@@ -1,0 +1,5 @@
+---
+layout: post
+title: htdig on os x server
+---
+<a href="http://cerebus.sandiego.edu/~jerry/UnixTips/HTDIG.html">HTDIG on OS X Server 10.0</a>

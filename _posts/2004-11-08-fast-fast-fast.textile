@@ -1,0 +1,9 @@
+---
+layout: post
+title: fast fast fast
+---
+I'm suprised this took so long, but it's a bloody good idea, optimised builds of browsers for specific chips, and boy are they fast.
+
+Read more at [hicks][1]
+
+[1]:http://www.hicksdesign.co.uk/journal/606/optimized-firefox-for-g5s

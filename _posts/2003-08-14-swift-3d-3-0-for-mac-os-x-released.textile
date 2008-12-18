@@ -1,0 +1,5 @@
+---
+layout: post
+title: swift 3d 3.0 for mac os x released
+---
+<a title="MacMinute: Swift 3D 3.0 for Mac OS X released" href="http://www.macminute.com/2003/08/14/swift3d">MacMinute: Swift 3D 3.0 for Mac OS X released</a>

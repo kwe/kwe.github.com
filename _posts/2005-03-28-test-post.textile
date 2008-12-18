@@ -1,0 +1,5 @@
+---
+layout: post
+title: test post
+---
+Did this *work*?

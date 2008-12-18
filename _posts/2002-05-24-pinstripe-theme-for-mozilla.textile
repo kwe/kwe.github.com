@@ -1,0 +1,5 @@
+---
+layout: post
+title: pinstripe theme for mozilla
+---
+<a href="http://www.kmgerich.com/pinstripe/pinstripe.html">Pinstripe Theme for Mozilla</a>

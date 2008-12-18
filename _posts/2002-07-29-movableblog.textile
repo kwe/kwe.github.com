@@ -1,0 +1,5 @@
+---
+layout: post
+title: movableblog
+---
+<a href="http://www.justagwailo.com/movableblog/">MovableBlog</a>, hints and tips for MovableType

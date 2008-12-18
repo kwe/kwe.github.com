@@ -1,0 +1,7 @@
+---
+layout: post
+title: fix it
+---
+<!-- Begin ADSLguide Demand Tracker Chart -->
+<a href="http://www.adslguide.org.uk/availability/btprereg_history.asp?code=SWYBL" target="_blank"><img border="0" src="http://prereg.adslguide.org.uk/graphs/exchange/line/all/small/SWYBL" alt="ADSLguide Demand Tracker Data for Ynysybwl"></a> 
+<!-- End ADSLguide Demand Tracker Chart -->

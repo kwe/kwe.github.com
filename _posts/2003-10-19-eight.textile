@@ -1,0 +1,7 @@
+---
+layout: post
+title: eight
+---
+<img alt="eight.jpg" src="http://www.mpet45.co.uk/myBlog/archives/eight.jpg" width="320" height="320" border="0" />
+
+"more pics":http://homepage.mac.com/kwevans/PhotoAlbum11.html

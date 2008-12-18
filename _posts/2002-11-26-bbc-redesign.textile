@@ -1,0 +1,5 @@
+---
+layout: post
+title: bbc redesign
+---
+<a href="http://holovaty.com/blog/archive/2002/11/21/1253">Details</a> of the colour trick.

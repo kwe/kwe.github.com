@@ -1,0 +1,5 @@
+---
+layout: post
+title: head
+---
+<a title="Accessible Header Images With CSS And XHTML" href="http://www.sitepoint.com/article/1221">Accessible Header Images With CSS And XHTML</a>

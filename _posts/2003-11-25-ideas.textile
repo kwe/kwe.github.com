@@ -1,0 +1,5 @@
+---
+layout: post
+title: ideas
+---
+<a href="http://www.brick-on-the-egg.co.uk/sitemechanic/issue114.html">Brick-on-the-egg :: .Net Site Mechanic 114</a>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: smarter then smarty?
+---
+<a title="SmartPHP.net - Home" href="http://www.smartphp.net/">SmartPHP.net</a>. Yet another template engine.
+

@@ -1,0 +1,6 @@
+---
+layout: post
+title: flash, php and xml
+---
+<a title="Actionscript.org Macromedia Flash Resources and Tutorials" href="http://www.actionscript.org/tutorials/advanced/Php_procedural_functions_from_within_Flash_MX/index.shtml">Actionscript.org Macromedia Flash Resources and Tutorials</a>, one for young Mearso to look at..
+

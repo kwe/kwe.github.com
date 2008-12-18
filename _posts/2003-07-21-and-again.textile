@@ -1,0 +1,5 @@
+---
+layout: post
+title: and again
+---
+<a title="Brad Choate: Doing your whole site with MT" href="http://www.bradchoate.com/past/001656.php">Brad Choate: Doing your whole site with MT</a>

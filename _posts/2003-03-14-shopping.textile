@@ -1,0 +1,6 @@
+---
+layout: post
+title: shopping
+---
+<a title="Home - QDT" href="http://qualitydiecasttoys.com/one/">Home - QDT</a>. Now with shiny new shopping cart functionality. Please check...
+

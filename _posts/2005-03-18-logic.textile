@@ -1,0 +1,5 @@
+---
+layout: post
+title: logic
+---
+Nice <a href="http://hivelogic.com/archives/2005/03/18/ruby_install/">how-to</a> for installing Rails on OSX using Apache and fcgi. Even if the smart money right now is on <a href="http://www.lighttpd.net"> lighttpd </a> and fcgi for running rails.

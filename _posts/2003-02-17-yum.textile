@@ -1,0 +1,13 @@
+---
+layout: post
+title: yum
+---
+&lt?php	
+include_once("textile.php");
+$text = "h1. hello world
+
+*strong* as an _ox_";	
+echo textile($text);
+?&gt
+
+<a href="http://www.textpattern.com">Textpattern</a>.

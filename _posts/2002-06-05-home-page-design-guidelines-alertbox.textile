@@ -1,0 +1,5 @@
+---
+layout: post
+title: home page design guidelines (alertbox
+---
+<a href="http://www.useit.com/alertbox/20020512.html">Home Page Design Guidelines (Alertbox May 2002)</a>. Read it before Jenny!

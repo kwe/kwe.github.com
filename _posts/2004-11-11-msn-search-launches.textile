@@ -1,0 +1,7 @@
+---
+layout: post
+title: msn search launches
+---
+<img src="/images/msnsearch.jpg" alt="MSN crashes" class="picture" />
+
+Err?! at least it didn't just display a _blue screen of death_

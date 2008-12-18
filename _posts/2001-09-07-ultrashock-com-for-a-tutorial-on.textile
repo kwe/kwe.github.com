@@ -1,0 +1,5 @@
+---
+layout: post
+title: ultrashock.com for a tutorial on
+---
+<a href="http://www.ultrashock.com/ff.htm?http://www.ultrashock.com/tutorials/flash5/xml_pitfall.html">Ultrashock.com</a> for a tutorial on XML and flash 5

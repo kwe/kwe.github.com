@@ -1,0 +1,5 @@
+---
+layout: post
+title: everyones doing it so why
+---
+Everyones <a href="http://www-106.ibm.com/developerworks/library/hands-on-xsl/">doing it</a> so why not me?

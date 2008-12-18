@@ -1,0 +1,9 @@
+---
+layout: post
+title: my build
+---
+<code>
+/configure --enable-soap --with-xml --with-sqlite --with-zlib --with-gd --with-jpeg-dir=/usr/local --with-png-dir=/usr/local --with-libxml-dir=/usr/local --with-mysql=/usr/local/mysql --with-apxs=/usr/sbin/apxs
+</code>
+
+just a note to remind me of the options for php5 building..

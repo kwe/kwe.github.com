@@ -1,0 +1,5 @@
+---
+layout: post
+title: backup that webserver
+---
+Nice article on using <a href="http://www.mezzoblue.com/archives/2005/09/22/web_server_b/index.php" target="_self">Rsync to backup your webserver</a><br />

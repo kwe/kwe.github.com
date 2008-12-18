@@ -1,0 +1,6 @@
+---
+layout: post
+title: tasty
+---
+<a title="The Register" href="http://www.theregister.co.uk/content/69/34746.html">McD go wireless</a>
+

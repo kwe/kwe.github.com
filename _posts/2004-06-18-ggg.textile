@@ -1,0 +1,9 @@
+---
+layout: post
+title: ggg
+---
+!(border)/images/46.jpg (ggg)!
+
+Finally got a "Gmail":http://gmail.google.com account today. Looks good. I'm forwarding all my email to it for a little while, just to see how it gets on. Feels more like an app then a webpage. Kind of good timing after I deleted all my work email.
+
+*update:* it's great :-)

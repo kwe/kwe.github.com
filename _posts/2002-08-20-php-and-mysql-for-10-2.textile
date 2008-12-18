@@ -1,0 +1,5 @@
+---
+layout: post
+title: php and mysql for 10.2
+---
+<a href="http://www.entropy.ch/software/macosx/php/">Marc Liyanage - Software - Mac OS X Packages - PHP</a>. Jaguar needs new versions and here they are!

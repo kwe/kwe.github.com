@@ -1,0 +1,6 @@
+---
+layout: post
+title: another one
+---
+<a title="News" href="http://news.independent.co.uk/uk/health/story.jsp?story=365585&dir=59&host=3">Top 30 tips for Health</a>, Ed must not read!
+

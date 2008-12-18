@@ -1,0 +1,7 @@
+---
+layout: post
+title: css css css css !
+---
+"Something":http://www.welshrugbypics.co.uk/events/gallery/040509ospreysvscarlets/23 becomes "Something Else":http://www.welshrugbypics.co.uk/events/scarlets/040509ospreysvscarlets/23
+
+_NB_ in progress and does not even crash the server now!

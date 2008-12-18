@@ -1,0 +1,9 @@
+---
+layout: post
+title: there is love
+---
+Following it's firmware adventure, my router loves me..
+
+Well it does send me email every hour to say it's "OK".
+
+true love.
