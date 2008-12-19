@@ -3,7 +3,7 @@ layout: default
 title: kwe
 ---
 
-<h1>Hello world</h1>
+<h1>recent</h1>
 <ul class="posts">
   {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
