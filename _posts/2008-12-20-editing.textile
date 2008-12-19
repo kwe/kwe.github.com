@@ -1,0 +1,26 @@
+---
+layout: post
+title: Editing
+---
+
+It seems us geeks have a new war to fight. Emacs or Vim!
+
+Take one perfectly good editor (Textmate) and then spend lots of time making older editors behave like it...
+
+So why do it? Seems to me that there is some discomfort with the non-appearence of a Textmate 2.0. This is strange given that 1.0 seems to have sold a lot of Mac's for developers, and been copied by both the e-editor and intouch under Windows.
+
+For me it started with "Jamis":http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim and I guess only really sunk in when he followed up with "this article":http://weblog.jamisbuck.org/2008/11/17/vim-follow-up. 
+
+I downloaded "MacVim":http://code.google.com/p/macvim/ and used it for a few days.
+
+<a href="http://www.flickr.com/photos/kwe/3059248159/" title="Stats time by kwe, on Flickr"><img src="http://farm4.static.flickr.com/3281/3059248159_25ea6c0b7f.jpg" width="500" height="313" alt="Stats time" /></a>
+
+So the great stuff is the full-screen mode and the splits. Being able to split the screen into different views is really great for writing tests etc. Kind of hard to go back to Textmate - that's how good it is.
+
+Also very cool is the dbext.vim plugin which gives you lots of SQL goodness right in the editor. No more forgetting db schema's in views.
+
+<a href="http://www.flickr.com/photos/kwe/3121223886/" title="dbext.vim by kwe, on Flickr"><img src="http://farm4.static.flickr.com/3125/3121223886_18088d9348.jpg" width="500" height="351" alt="dbext.vim" /></a>
+
+So, kind of happy with the choice, until "this":http://nubyonrails.com/articles/emacs-emacs. Damn, emacs.
+
+Certainly the intro screencast looks sleak. Autotest within a split *yum*. A full screencast is promised, so stay tuned. 
