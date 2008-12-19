@@ -1,0 +1,29 @@
+/* I D E N T I F I E R */
+.pic p, .caption {
+    font-size: 11px;
+    line-height: 16px;
+    font-family: Verdana, Arial, sans-serif;
+    color: #666;
+    margin: 4px 0 10px;
+}
+
+/* P L A C E M E N T */
+.left {float: left; margin-right: 20px;}
+.right {float: right; margin-left: 20px;}
+.right.inset {margin: 0 120px 0 20px;} /* img floated right within text */
+.left.inset {margin-left: 230px;} /* img floated left within text */
+
+/* S I Z E */
+.one {width: 100px;}
+.two {width: 210px;}
+.three {width: 320px;}
+.four {width: 430px;}
+.five {width: 540px;}
+.six {width: 650px;}
+.seven {width: 760px;}
+.eight {width: 870px;}
+
+/* A D D I T I O N S */
+.frame {border: 1px solid #999;}
+.solo img {margin-bottom: 20px;}
+

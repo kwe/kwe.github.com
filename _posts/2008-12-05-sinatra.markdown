@@ -1,0 +1,67 @@
+---
+layout: post
+title: Sinatra
+---
+
+When I was a student I lived opposite Frank Sinatra.
+
+Living as he did in *UB5somethingOrOther*, he obviously was  not **THE** Frank Sinatra, but nevertheless a Frank Sinatra. I knew this because he played Frank Sinatra very loud at all times of the day or night ( or [Night and Day][2]).
+
+Initially, I thought a blast of AC/DC might help, but alas it just seemed to make it worst.
+
+Finally, I borrowed a copy of a Sinatra album and blasted back, in the hope that it would cancel out the onslaught.
+
+Yup, it worked, he got a girlfriend, became a goth and probably got a good degree and a job in the City.
+
+But anyway...
+
+Recently another Sinatra's caught my attention, [this one][1].
+
+<quote>Sinatra is a DSL for quickly creating web-applications in Ruby with minimal effort.</quote>
+
+and crickey it certainly is..
+
+a quick..
+
+<code>
+	sudo gem install sinatra
+</code>
+
+gets you all the bits you need
+
+then off you go, with a open terminal and the commands..
+
+<code>
+	mkdir hello
+	cd hello
+	mate hello.rb
+</code>
+
+into the hello.rb, type..
+
+<code>
+	require 'rubygems'
+	require 'sinatra'
+
+	get '/' do
+		"Hello World"
+	end
+</code>
+
+All done. Now back to terminal and type..
+
+<code>
+	ruby hello.rb
+</code>
+
+and point a web browser at http://localhost:4567, and web 3.0 is but an idea away.
+
+Then (if you must) read the [book][3] and do a search on github for 'sinatra' for inspiration. Seems perfect for small projects and you can even host it on apache via [passenger][4].
+	
+Now off to play some AC/DC..
+
+[1]:http://sinatra.rubyforge.org/
+[2]:http://www.youtube.com/watch?v=qsdzGzLzA2Q
+[3]:http://sinatra.rubyforge.org/book.html
+[4]:http://advent2008.hackruby.com/past/2008/12/2/deploying_ruby_apps_with_passenger_/
+
