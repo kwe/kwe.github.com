@@ -1,0 +1,13 @@
+---
+layout: post
+title: Emacs
+---
+
+So you know the recent post where I adopted Vim for editing? Well, like the alpha geek whore I am - I'm now learning emacs. 
+
+Blame peepcode as always for the sudden increase in Emacs 'learners'.
+
+So what's cool so far? Definately, the split screen editing, especially with the ability to run things like autotest in a shell split. Put the whole thing full screen and let the coding begin.
+
+*GEEK*
+

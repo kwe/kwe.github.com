@@ -24,3 +24,7 @@ Also very cool is the dbext.vim plugin which gives you lots of SQL goodness righ
 So, kind of happy with the choice, until "this":http://nubyonrails.com/articles/emacs-emacs. Damn, emacs.
 
 Certainly the intro screencast looks sleak. Autotest within a split *yum*. A full screencast is promised, so stay tuned. 
+
+*update*
+
+Some nice "tips for vim":http://giantrobots.thoughtbot.com/2008/12/19/thoughtbot-is-filled-with-vim-and-vigor
