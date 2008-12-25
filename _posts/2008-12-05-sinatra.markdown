@@ -39,14 +39,14 @@ then off you go, with a open terminal and the commands..
 
 into the hello.rb, type..
 
-<code>
+{% highlight ruby %}
 	require 'rubygems'
 	require 'sinatra'
 
 	get '/' do
 		"Hello World"
 	end
-</code>
+{% endhighlight %}
 
 All done. Now back to terminal and type..
 
