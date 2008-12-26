@@ -5,7 +5,11 @@ title: Emacs
 
 So you know the recent post where I adopted Vim for editing? Well, like the alpha geek whore I am - I'm now learning emacs. 
 
-Blame peepcode as always for the sudden increase in Emacs 'learners'.
+<a href="http://www.flickr.com/photos/kwe/3139464916/" title="emacs by kwe, on Flickr"><img src="http://farm4.static.flickr.com/3079/3139464916_c875b81c17.jpg" width="500" height="313" alt="emacs" /></a>
 
-So what's cool so far? Definately, the split screen editing, especially with the ability to run things like autotest in a shell split. Put the whole thing full screen and let the coding begin. On the bad side it seems to lack some of the shortcuts I really like in textmate ie. c-l for => and ':' tab for :something => something. Perhaps I can add these? hmmm..
+Blame "peepcode":https://peepcode.com/products/meet-emacs as always for the sudden increase in Emacs 'learners'.
+
+So what's cool so far? Definately, the split screen editing, especially with the ability to run things like autotest in a shell split. Put the whole thing full screen and let the coding begin. Git is nicely integrated and even sql queries.
+
+On the bad side it seems to lack some of the shortcuts I really like in textmate ie. c-l for => and ':' tab for :something => something. Perhaps I can add these? hmmm..
 
