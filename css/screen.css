@@ -23,5 +23,6 @@ h1, h2 {
 h1 {font-size: 20px;}
 h2 {font-size: 16px;}
 
-p {margin: 0 120px 20px 230px;}
+p, code, .body_stuff, .highlight, pre {margin: 0 120px 20px 230px;}
+
 
