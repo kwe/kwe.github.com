@@ -15,6 +15,33 @@
 <body>
   <div id="content">
     <p><a href="/">home</a> <a href="/archives.html">archives</a></p>
+<!-- Include the Google Friend Connect javascript library. -->
+<script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
+
+<!-- Define the div tag where the gadget will be inserted. -->
+<div id="div-1230852342317" style="width:282px;border:1px solid #ffffff;"></div>
+<!-- Render the gadget into a div. -->
+<script type="text/javascript">
+var skin = {};
+skin['BORDER_COLOR'] = '#ffffff';
+skin['ENDCAP_BG_COLOR'] = '#e0ecff';
+skin['ENDCAP_TEXT_COLOR'] = '#333333';
+skin['ENDCAP_LINK_COLOR'] = '#0000cc';
+skin['ALTERNATE_BG_COLOR'] = '#cccccc';
+skin['CONTENT_BG_COLOR'] = '#ffffff';
+skin['CONTENT_LINK_COLOR'] = '#ff0000';
+skin['CONTENT_TEXT_COLOR'] = '#333333';
+skin['CONTENT_SECONDARY_LINK_COLOR'] = '#7777cc';
+skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#666666';
+skin['CONTENT_HEADLINE_COLOR'] = '#333333';
+skin['ALIGNMENT'] = 'right';
+google.friendconnect.container.setParentUrl('/' /* location of rpc_relay.html and canvas.html */);
+google.friendconnect.container.renderSignInGadget(
+ { id: 'div-1230852342317',
+   site: '02583196007439192665'},
+  skin);
+</script>
+
     {{ content }}
   </div>  
 
