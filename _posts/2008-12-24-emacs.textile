@@ -13,3 +13,4 @@ So what's cool so far? Definately, the split screen editing, especially with the
 
 On the bad side it seems to lack some of the shortcuts I really like in textmate ie. c-l for => and ':' tab for :something => something. Perhaps I can add these? hmmm..
 
+*Update* Seems like "Emacs":http://xkcd.com/378/ is the flavour of the day right now in geekdom.
